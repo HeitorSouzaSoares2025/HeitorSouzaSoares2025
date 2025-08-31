@@ -9,7 +9,7 @@
 - **Programação:** HTML, CSS, JavaScript, PHP, C++  
 - **Bancos de dados:** MySQL e SQL  
 - **Eletrônica & IoT:** ESP8266 e Arduino  
-- **Visualização de dados:** Gráficos interativos com Chart.js  
+- **Visualização de dados:** Gráficos dinâmicos com Chart.js  
 - **Outros:** Git, GitHub, sistemas básicos e páginas web  
 
 ---
