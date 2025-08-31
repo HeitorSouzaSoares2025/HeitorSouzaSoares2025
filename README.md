@@ -21,24 +21,28 @@ Aqui você encontrará meus projetos, experimentos e aprendizados.
 
 ## 🚀 Meus Projetos
 
-<div>
-
-### 🌡️ Estação Meteorológica ESP8266
-**Descrição:** Sistema completo com sensores de temperatura, umidade e luminosidade.  
-**Tecnologias:** ESP8266, Arduino, PHP, MySQL, HTML, CSS, JavaScript  
-**Link:** [Ver Projeto](https://github.com/HeitorSouzaSoares25/EstacaoMeteorologica)
-
-### 🌱 Landing Page Meio Ambiente
-**Descrição:** Página interativa sobre o impacto do plástico nos oceanos, com layout responsivo e animações.  
-**Tecnologias:** HTML, CSS, JavaScript  
-**Link:** [Ver Projeto](https://github.com/HeitorSouzaSoares25/LandingPageMeioAmbiente)
-
-### 🔐 Gerenciador de Senhas
-**Descrição:** Sistema seguro de armazenamento de senhas com login simples e proteção básica.  
-**Tecnologias:** PHP, MySQL, HTML, CSS, JavaScript  
-**Link:** [Ver Projeto](https://github.com/HeitorSouzaSoares25/GerenciadorSenhas)
-
-</div>
+<table>
+  <tr>
+    <td align="center" style="border: 2px solid #00979D; border-radius: 10px; padding: 10px;">
+      <h3>🌡️ Estação Meteorológica ESP8266</h3>
+      <p>Sistema completo com sensores de temperatura, umidade e luminosidade.</p>
+      <p><b>Tecnologias:</b> ESP8266, Arduino, PHP, MySQL, HTML, CSS, JavaScript</p>
+      <a href="https://github.com/HeitorSouzaSoares25/EstacaoMeteorologica">🔗 Ver Projeto</a>
+    </td>
+    <td align="center" style="border: 2px solid #1572B6; border-radius: 10px; padding: 10px;">
+      <h3>🌱 Landing Page Meio Ambiente</h3>
+      <p>Página interativa sobre o impacto do plástico nos oceanos.</p>
+      <p><b>Tecnologias:</b> HTML, CSS, JavaScript</p>
+      <a href="https://github.com/HeitorSouzaSoares25/LandingPageMeioAmbiente">🔗 Ver Projeto</a>
+    </td>
+    <td align="center" style="border: 2px solid #777BB4; border-radius: 10px; padding: 10px;">
+      <h3>🔐 Gerenciador de Senhas</h3>
+      <p>Sistema seguro de armazenamento de senhas com login simples.</p>
+      <p><b>Tecnologias:</b> PHP, MySQL, HTML, CSS, JavaScript</p>
+      <a href="https://github.com/HeitorSouzaSoares25/GerenciadorSenhas">🔗 Ver Projeto</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
