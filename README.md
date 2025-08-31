@@ -21,28 +21,55 @@ Aqui você encontrará meus projetos, experimentos e aprendizados.
 
 ## 🚀 Meus Projetos
 
-<table>
-  <tr>
-    <td align="center" style="border: 2px solid #00979D; border-radius: 10px; padding: 10px;">
-      <h3>🌡️ Estação Meteorológica ESP8266</h3>
-      <p>Sistema completo com sensores de temperatura, umidade e luminosidade.</p>
-      <p><b>Tecnologias:</b> ESP8266, Arduino, PHP, MySQL, HTML, CSS, JavaScript</p>
-      <a href="https://github.com/HeitorSouzaSoares25/EstacaoMeteorologica">🔗 Ver Projeto</a>
-    </td>
-    <td align="center" style="border: 2px solid #1572B6; border-radius: 10px; padding: 10px;">
-      <h3>🌱 Landing Page Meio Ambiente</h3>
-      <p>Página interativa sobre o impacto do plástico nos oceanos.</p>
-      <p><b>Tecnologias:</b> HTML, CSS, JavaScript</p>
-      <a href="https://github.com/HeitorSouzaSoares25/LandingPageMeioAmbiente">🔗 Ver Projeto</a>
-    </td>
-    <td align="center" style="border: 2px solid #777BB4; border-radius: 10px; padding: 10px;">
-      <h3>🔐 Gerenciador de Senhas</h3>
-      <p>Sistema seguro de armazenamento de senhas com login simples.</p>
-      <p><b>Tecnologias:</b> PHP, MySQL, HTML, CSS, JavaScript</p>
-      <a href="https://github.com/HeitorSouzaSoares25/GerenciadorSenhas">🔗 Ver Projeto</a>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; gap: 15px;">
+
+<!-- Projeto 1 -->
+<div style="border: 2px solid #00979D; border-radius: 12px; padding: 15px; width: 300px; background-color: #f0f8ff;">
+  <h3>🌡️ Estação Meteorológica ESP8266</h3>
+  <p>Sistema completo com sensores de temperatura, umidade e luminosidade.</p>
+  <p>
+    <b>Tecnologias:</b><br>
+    <img src="https://img.shields.io/badge/ESP8266-FF6F00?style=flat&logo=esp8266&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  </p>
+  <a href="https://github.com/HeitorSouzaSoares25/EstacaoMeteorologica">🔗 Ver Projeto</a>
+</div>
+
+<!-- Projeto 2 -->
+<div style="border: 2px solid #1572B6; border-radius: 12px; padding: 15px; width: 300px; background-color: #e6f2ff;">
+  <h3>🌱 Landing Page Meio Ambiente</h3>
+  <p>Página interativa sobre o impacto do plástico nos oceanos.</p>
+  <p>
+    <b>Tecnologias:</b><br>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  </p>
+  <a href="https://github.com/HeitorSouzaSoares25/LandingPageMeioAmbiente">🔗 Ver Projeto</a>
+</div>
+
+<!-- Projeto 3 -->
+<div style="border: 2px solid #777BB4; border-radius: 12px; padding: 15px; width: 300px; background-color: #f3f0ff;">
+  <h3>🔐 Gerenciador de Senhas</h3>
+  <p>Sistema seguro de armazenamento de senhas com login simples.</p>
+  <p>
+    <b>Tecnologias:</b><br>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  </p>
+  <a href="https://github.com/HeitorSouzaSoares25/GerenciadorSenhas">🔗 Ver Projeto</a>
+</div>
+
+</div>
+
 
 ---
 
