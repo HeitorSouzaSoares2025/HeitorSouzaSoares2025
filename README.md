@@ -1,25 +1,25 @@
 # Olá, eu sou o Heitor! 👋
 
-🎓 Estudante de Informática | Apaixonado por tecnologia, programação e projetos DIY  
+🎓 Estudante de Informática | Muito interessado pelo mundo da Tecnologia e Informação  
 
 ---
 
 ## 🔧 Habilidades
-- **Programação:** HTML, CSS, JavaScript, PHP, Arduino  
-- **Bancos de dados:** MySQL  
-- **Eletrônica & IoT:** ESP8266, DHT22, LDR  
+- **Programação:** HTML, CSS, JavaScript, PHP, C++  
+- **Bancos de dados:** MySQL e SQL  
+- **Eletrônica & IoT:** ESP8266 e Arduino  
 - **Visualização de dados:** Gráficos interativos com Chart.js  
-- **Outros:** Git, GitHub, criação de dashboards e páginas web  
+- **Outros:** Git, GitHub, sistemas básicos e páginas web  
 
 ---
 
 ## 🚀 Projetos em destaque
 
-### 1️⃣ Estação Meteorológica 🌡️
-- ESP8266 + DHT22 + LDR  
+### 1️⃣ Gerenciador e Armazenador de Senhas D2FA 🌡🔐
+- Html, Css, Js, Php e Sql  
 - Envio de dados para site em tempo real  
-- Gráficos interativos com Chart.js  
-- E-mail automático de relatórios  
+- Interface interativa e moderna  
+- Sistema seguro e de fácil manuseio  
 [📁 Ver projeto](#)
 
 ### 2️⃣ Landing Page sobre Plástico nos Mares 🐠
@@ -28,10 +28,10 @@
 - Focado em conscientização ambiental  
 [📁 Ver projeto](#)
 
-### 3️⃣ Outros Projetos
-- Jogos e scripts escolares  
-- Experimentos de eletrônica  
-- Mini websites e dashboards interativos  
+### 3️⃣ Estação Meteorológica 🌡  
+- Html, Css, Js, Phh, Sql e C++  
+- Site com gráficos dinâmicos e em tempo real
+- Focado em monitoramento das condições climáticas  
 [📁 Ver todos os projetos](#)
 
 ---
@@ -47,6 +47,5 @@
 ---
 
 ## 📫 Contato
-- ✉️ E-mail: `heitor@example.com`  
-- 💼 LinkedIn: [Seu LinkedIn](#)  
+- ✉️ E-mail: `heitorinformaticasala09@gmail.com`    
 - 🐙 GitHub: [HeitorSouzaSoares25](https://github.com/HeitorSouzaSoares25)
