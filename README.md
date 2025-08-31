@@ -43,7 +43,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979C?style=for-the-badge&logo=arduino&logoColor=white
+![Arduino](https://img.shields.io/badge/Arduino-00979C?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP8266](https://img.shields.io/badge/ESP8266-FF6F00?style=for-the-badge&logo=esp8266&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
