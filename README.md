@@ -41,11 +41,12 @@ Aqui você encontrará meus projetos, experimentos e aprendizados.
   </p>
 </div>
 
+---
 
 <!-- Projeto 2 -->
 <div style="border: 2px solid #1572B6; border-radius: 12px; padding: 20px; background-color: #e6f2ff; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <h3>🔰 Site Pessoal</h3>
-  <p>Um site pessoal criado na intenção de guardar projetos escolares e ser um site central de direcionamento. Esse site foi feito apenas para fins acadêmicos.</p>
+  <p>Um site pessoal criado para guardar projetos escolares e servir como central de direcionamento. Feito apenas para fins acadêmicos.</p>
   <p>
     <b>Tecnologias:</b><br>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> 
@@ -58,10 +59,12 @@ Aqui você encontrará meus projetos, experimentos e aprendizados.
   </p>
 </div>
 
+---
+
 <!-- Projeto 3 -->
 <div style="border: 2px solid #777BB4; border-radius: 12px; padding: 20px; background-color: #f3f0ff; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <h3>🔐 Gerenciador e Armazenador de Senhas D2FA</h3>
-  <p>Um sistema seguro e confiável criado visando guardar de forma prática e protegida informações confidenciais. Esse projeto foi desenvolvido entre maio e agosto de 2025.</p>
+  <p>Sistema seguro para guardar informações confidenciais. Desenvolvido entre maio e agosto de 2025.</p>
   <p>
     <b>Tecnologias:</b><br>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/> 
@@ -76,10 +79,12 @@ Aqui você encontrará meus projetos, experimentos e aprendizados.
   </p>
 </div>
 
+---
+
 <!-- Projeto 4 -->
 <div style="border: 2px solid #1572B6; border-radius: 12px; padding: 20px; background-color: #e6f2ff; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <h3>🌊 Site Subnautica</h3>
-  <p>Site desenvolvido em grupo para apresentação escolar sobre o jogo Subnautica, onde fiquei responsável pela parte de criação da página.</p>
+  <p>Site desenvolvido em grupo para apresentação escolar sobre o jogo Subnautica, com criação da página por minha parte.</p>
   <p>
     <b>Tecnologias:</b><br>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> 
@@ -90,67 +95,6 @@ Aqui você encontrará meus projetos, experimentos e aprendizados.
     <a href="https://github.com/HeitorSouzaSoares2025/Subnautica" style="text-decoration:none; background-color:#181717; color:white; padding:10px 16px; border-radius:20px; margin-right:8px;">🌊 Ver Código</a>
     <a href="https://heitorsouzasoares2025.github.io/Subnautica/" style="text-decoration:none; background-color:#0A66C2; color:white; padding:10px 16px; border-radius:20px;">📂 Acessar Projeto Online</a>
   </p>
-</div>
-
-</div>
-
-
----
-
-<!-- Projeto 2 -->
-<div style="border: 2px solid #1572B6; border-radius: 12px; padding: 20px; background-color: #e6f2ff; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  <h3>🔰 Site Pessoal</h3>
-  <p>Um site pessoal criado na intenção de guardar projetos escolares e ser um site central de direcionamento. Esse site foi feito apenas para fins acadêmicos.</p>
-  <p>
-    <b>Tecnologias:</b><br>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  </p>
-  <p>
-    <a href="https://github.com/HeitorSouzaSoares25/LandingPageMeioAmbiente" style="text-decoration:none; background-color:#24292f; color:white; padding:10px 16px; border-radius:20px; margin-right:8px;">🐙 Ver no GitHub</a>
-    <a href="https://heitorsouzasoares2025.github.io/HeitorSS/" style="text-decoration:none; background-color:#2ea44f; color:white; padding:10px 16px; border-radius:20px;">📂 Acessar Projeto Online</a>
-  </p>
-</div>
-
----
-
-<!-- Projeto 3 -->
-<div style="border: 2px solid #777BB4; border-radius: 12px; padding: 20px; background-color: #f3f0ff; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  <h3>🔐 Gerenciador e Armazenador de Senhas D2FA</h3>
-  <p>Um sistema seguro e confiável criado visando guardar de forma prática e protegida informações confidenciais. Esse projeto foi desenvolvido entre maio e agosto de 2025.</p>
-  <p>
-    <b>Tecnologias:</b><br>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  </p>
-  <p>
-    <a href="https://github.com/HeitorSouzaSoares25/GerenciadorSenhas" style="text-decoration:none; background-color:#24292f; color:white; padding:10px 16px; border-radius:20px; margin-right:8px;">🐙 Ver no GitHub</a>
-    <a href="https://heitor.wuaze.com/" style="text-decoration:none; background-color:#2ea44f; color:white; padding:10px 16px; border-radius:20px;">📂 Acessar Projeto Online</a>
-  </p>
-</div>
-
----
-
-<!-- Projeto 4 -->
-<div style="border: 2px solid #1572B6; border-radius: 12px; padding: 20px; background-color: #e6f2ff; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  <h3>🌊 Site Subnautica</h3>
-  <p>Site desenvolvido em grupo para apresentação escolar sobre o jogo Subnautica, onde fiquei responsável pela parte de criação da página.</p>
-  <p>
-    <b>Tecnologias:</b><br>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  </p>
-  <p>
-    <a href="https://github.com/HeitorSouzaSoares25/Subnautica" style="text-decoration:none; background-color:#24292f; color:white; padding:10px 16px; border-radius:20px; margin-right:8px;">🐙 Ver no GitHub</a>
-    <a href="https://heitorsouzasoares2025.github.io/Subnautica/" style="text-decoration:none; background-color:#2ea44f; color:white; padding:10px 16px; border-radius:20px;">📂 Acessar Projeto Online</a>
-  </p>
-</div>
-
 </div>
 
 ---
