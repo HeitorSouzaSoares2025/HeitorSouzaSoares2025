@@ -39,7 +39,7 @@ Aqui você encontrará meus projetos, experimentos e aprendizados.
   </p>
   <p>
     <a href="https://github.com/HeitorSouzaSoares25/EstacaoMeteorologica" style="text-decoration:none; background-color:#24292f; color:white; padding:10px 16px; border-radius:20px; margin-right:8px;">🐙 Ver no GitHub</a>
-    <a href="https://heitor.wuaze.com/estacao" style="text-decoration:none; background-color:#2ea44f; color:white; padding:10px 16px; border-radius:20px;">🌐 Acessar Online</a>
+    <a href="https://heitor.wuaze.com/estacao" style="text-decoration:none; background-color:#2ea44f; color:white; padding:10px 16px; border-radius:20px;">📂 Acessar Projeto Online</a>
   </p>
 </div>
 
@@ -57,7 +57,7 @@ Aqui você encontrará meus projetos, experimentos e aprendizados.
   </p>
   <p>
     <a href="https://github.com/HeitorSouzaSoares25/LandingPageMeioAmbiente" style="text-decoration:none; background-color:#24292f; color:white; padding:10px 16px; border-radius:20px; margin-right:8px;">🐙 Ver no GitHub</a>
-    <a href="https://heitorsouzasoares2025.github.io/HeitorSS/" style="text-decoration:none; background-color:#2ea44f; color:white; padding:10px 16px; border-radius:20px;">🌐 Acessar Online</a>
+    <a href="https://heitorsouzasoares2025.github.io/HeitorSS/" style="text-decoration:none; background-color:#2ea44f; color:white; padding:10px 16px; border-radius:20px;">📂 Acessar Projeto Online</a>
   </p>
 </div>
 
@@ -77,7 +77,7 @@ Aqui você encontrará meus projetos, experimentos e aprendizados.
   </p>
   <p>
     <a href="https://github.com/HeitorSouzaSoares25/GerenciadorSenhas" style="text-decoration:none; background-color:#24292f; color:white; padding:10px 16px; border-radius:20px; margin-right:8px;">🐙 Ver no GitHub</a>
-    <a href="https://heitor.wuaze.com/" style="text-decoration:none; background-color:#2ea44f; color:white; padding:10px 16px; border-radius:20px;">🌐 Acessar Online</a>
+    <a href="https://heitor.wuaze.com/" style="text-decoration:none; background-color:#2ea44f; color:white; padding:10px 16px; border-radius:20px;">📂 Acessar Projeto Online</a>
   </p>
 </div>
 
@@ -95,14 +95,11 @@ Aqui você encontrará meus projetos, experimentos e aprendizados.
   </p>
   <p>
     <a href="https://github.com/HeitorSouzaSoares25/Subnautica" style="text-decoration:none; background-color:#24292f; color:white; padding:10px 16px; border-radius:20px; margin-right:8px;">🐙 Ver no GitHub</a>
-    <a href="https://heitorsouzasoares2025.github.io/Subnautica/" style="text-decoration:none; background-color:#2ea44f; color:white; padding:10px 16px; border-radius:20px;">🌐 Acessar Online</a>
+    <a href="https://heitorsouzasoares2025.github.io/Subnautica/" style="text-decoration:none; background-color:#2ea44f; color:white; padding:10px 16px; border-radius:20px;">📂 Acessar Projeto Online</a>
   </p>
 </div>
 
 </div>
-
-
-
 
 ---
 
@@ -113,5 +110,3 @@ Aqui você encontrará meus projetos, experimentos e aprendizados.
   <a href="mailto:seuemail@email.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://linkedin.com/in/seulinkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
-
----
