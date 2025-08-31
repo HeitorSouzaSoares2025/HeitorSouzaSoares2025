@@ -50,7 +50,7 @@ Aqui você encontrará meus projetos, experimentos e aprendizados.
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> 
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   </p>
-  <p><a href="https://github.com/HeitorSouzaSoares25/LandingPageMeioAmbiente" style="text-decoration:none; color:white; background-color:#1572B6; padding:6px 12px; border-radius:5px;">🔗 Acessar Projeto</a></p>
+  <p><a href="[https://github.com/HeitorSouzaSoares25/LandingPageMeioAmbiente](https://heitorsouzasoares2025.github.io/HeitorSS/)" style="text-decoration:none; color:white; background-color:#1572B6; padding:6px 12px; border-radius:5px;">🔗 Acessar Projeto</a></p>
 </div>
 
 <!-- Projeto 3 -->
@@ -66,6 +66,18 @@ Aqui você encontrará meus projetos, experimentos e aprendizados.
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   </p>
   <p><a href="https://github.com/HeitorSouzaSoares25/GerenciadorSenhas" style="text-decoration:none; color:white; background-color:#777BB4; padding:6px 12px; border-radius:5px;">🔗 Acessar Projeto</a></p>
+</div>
+
+<div style="border: 2px solid #1572B6; border-radius: 12px; padding: 15px; width: 300px; background-color: #e6f2ff;">
+  <h3>🌊 Site Subnautica</h3>
+  <p>Este é um site criado para uma apresentação em grupo, trabalho cujo eu fiquei com a parte de falar sobre o jogo Subnautica em forma de site</p>
+  <p>
+    <b>Tecnologias:</b><br>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  </p>
+  <p><a href=" https://heitorsouzasoares2025.github.io/Subnautica/" style="text-decoration:none; color:white; background-color:#1572B6; padding:6px 12px; border-radius:5px;">🔗 Acessar Projeto</a></p>
 </div>
 
 </div>
