@@ -82,9 +82,3 @@ Aqui você encontrará meus projetos, experimentos e aprendizados.
 </p>
 
 ---
-
-## ⚡ Curiosidades sobre mim
-
-- Sempre explorando novas tecnologias e **aprendendo na prática**.  
-- Adoro criar projetos que **automatizam tarefas e resolvem problemas reais**.  
-- Meu objetivo: me tornar um **desenvolvedor full-stack**.
