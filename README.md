@@ -71,7 +71,7 @@ Aqui você encontrará meus projetos, experimentos e aprendizados.
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   </p>
   <p>
-    <a href="https://github.com/HeitorSouzaSoares25/GerenciadorSenhas" style="text-decoration:none; background-color:#181717; color:white; padding:10px 16px; border-radius:20px; margin-right:8px;">🔐 Ver Código</a>
+    <a href="https://github.com/HeitorSouzaSoares2025/Armazenador-e-Gerenciador-de-Senhas-2FA" style="text-decoration:none; background-color:#181717; color:white; padding:10px 16px; border-radius:20px; margin-right:8px;">🔐 Ver Código</a>
     <a href="https://heitor.wuaze.com/" style="text-decoration:none; background-color:#0A66C2; color:white; padding:10px 16px; border-radius:20px;">📂 Acessar Projeto Online</a>
   </p>
 </div>
