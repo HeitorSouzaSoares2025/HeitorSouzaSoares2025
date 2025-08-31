@@ -69,7 +69,7 @@ Aqui você encontrará meus projetos, experimentos e aprendizados.
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> 
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   </p>
-  <p><a href="https://github.com/HeitorSouzaSoares25/GerenciadorSenhas" style="text-decoration:none; color:white; background-color:#777BB4; padding:8px 14px; border-radius:6px;">🔗 Acessar Projeto</a></p>
+  <p><a href="(https://heitor.wuaze.com/)" style="text-decoration:none; color:white; background-color:#777BB4; padding:8px 14px; border-radius:6px;">🔗 Acessar Projeto</a></p>
 </div>
 
 ---
