@@ -21,10 +21,10 @@ Aqui você encontrará meus projetos, experimentos e aprendizados.
 
 ## 🚀 Meus Projetos
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+<div style="display: flex; flex-direction: column; gap: 40px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
 <!-- Projeto 1 -->
-<div style="border: 2px solid #00979D; border-radius: 12px; padding: 15px; width: 300px; min-height: 380px; background-color: #f0f8ff; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: flex; flex-direction: column; justify-content: space-between;">
+<div style="border: 2px solid #00979D; border-radius: 12px; padding: 20px; background-color: #f0f8ff; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <h3>🌡️ Estação Meteorológica ESP8266</h3>
   <p>Projeto de monitoramento ambiental em tempo real, capturando <b>temperatura, umidade e luminosidade</b> através de sensores. Inclui painel web dinâmico e envio automático de relatórios por e-mail.</p>
   <p>
@@ -37,13 +37,13 @@ Aqui você encontrará meus projetos, experimentos e aprendizados.
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> 
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   </p>
-  <p><a href="https://github.com/HeitorSouzaSoares25/EstacaoMeteorologica" style="text-decoration:none; color:white; background-color:#00979D; padding:8px 14px; border-radius:6px; transition:0.3s;">🔗 Acessar Projeto</a></p>
+  <p><a href="https://github.com/HeitorSouzaSoares25/EstacaoMeteorologica" style="text-decoration:none; color:white; background-color:#00979D; padding:8px 14px; border-radius:6px;">🔗 Acessar Projeto</a></p>
 </div>
 
-<hr style="width:100%; border:1px solid #ccc;">
+---
 
 <!-- Projeto 2 -->
-<div style="border: 2px solid #1572B6; border-radius: 12px; padding: 15px; width: 300px; min-height: 380px; background-color: #e6f2ff; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: flex; flex-direction: column; justify-content: space-between;">
+<div style="border: 2px solid #1572B6; border-radius: 12px; padding: 20px; background-color: #e6f2ff; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <h3>🔰 Site Pessoal</h3>
   <p>Um site pessoal criado na intenção de guardar projetos escolares e ser um site central de direcionamento. Esse site foi feito apenas para fins acadêmicos.</p>
   <p>
@@ -52,13 +52,13 @@ Aqui você encontrará meus projetos, experimentos e aprendizados.
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> 
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   </p>
-  <p><a href="https://heitorsouzasoares2025.github.io/HeitorSS/" style="text-decoration:none; color:white; background-color:#1572B6; padding:8px 14px; border-radius:6px; transition:0.3s;">🔗 Acessar Projeto</a></p>
+  <p><a href="https://heitorsouzasoares2025.github.io/HeitorSS/" style="text-decoration:none; color:white; background-color:#1572B6; padding:8px 14px; border-radius:6px;">🔗 Acessar Projeto</a></p>
 </div>
 
-<hr style="width:100%; border:1px solid #ccc;">
+---
 
 <!-- Projeto 3 -->
-<div style="border: 2px solid #777BB4; border-radius: 12px; padding: 15px; width: 300px; min-height: 380px; background-color: #f3f0ff; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: flex; flex-direction: column; justify-content: space-between;">
+<div style="border: 2px solid #777BB4; border-radius: 12px; padding: 20px; background-color: #f3f0ff; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <h3>🔐 Gerenciador e Armazenador de Senhas D2FA</h3>
   <p>Um sistema seguro e confiável criado visando guardar de forma prática e protegida informações confidenciais. Esse projeto foi desenvolvido entre maio e agosto de 2025.</p>
   <p>
@@ -69,13 +69,13 @@ Aqui você encontrará meus projetos, experimentos e aprendizados.
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> 
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   </p>
-  <p><a href="https://github.com/HeitorSouzaSoares25/GerenciadorSenhas" style="text-decoration:none; color:white; background-color:#777BB4; padding:8px 14px; border-radius:6px; transition:0.3s;">🔗 Acessar Projeto</a></p>
+  <p><a href="https://github.com/HeitorSouzaSoares25/GerenciadorSenhas" style="text-decoration:none; color:white; background-color:#777BB4; padding:8px 14px; border-radius:6px;">🔗 Acessar Projeto</a></p>
 </div>
 
-<hr style="width:100%; border:1px solid #ccc;">
+---
 
 <!-- Projeto 4 -->
-<div style="border: 2px solid #1572B6; border-radius: 12px; padding: 15px; width: 300px; min-height: 380px; background-color: #e6f2ff; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: flex; flex-direction: column; justify-content: space-between;">
+<div style="border: 2px solid #1572B6; border-radius: 12px; padding: 20px; background-color: #e6f2ff; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <h3>🌊 Site Subnautica</h3>
   <p>Site desenvolvido em grupo para apresentação escolar sobre o jogo Subnautica, onde fiquei responsável pela parte de criação da página.</p>
   <p>
@@ -84,16 +84,11 @@ Aqui você encontrará meus projetos, experimentos e aprendizados.
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> 
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   </p>
-  <p><a href="https://heitorsouzasoares2025.github.io/Subnautica/" style="text-decoration:none; color:white; background-color:#1572B6; padding:8px 14px; border-radius:6px; transition:0.3s;">🔗 Acessar Projeto</a></p>
+  <p><a href="https://heitorsouzasoares2025.github.io/Subnautica/" style="text-decoration:none; color:white; background-color:#1572B6; padding:8px 14px; border-radius:6px;">🔗 Acessar Projeto</a></p>
 </div>
 
 </div>
 
-<style>
-a:hover {
-  background-color: #005577 !important;
-}
-</style>
 
 
 ---
