@@ -3,6 +3,11 @@
   <img src="https://images.unsplash.com/photo-1581092795368-c37f6e093421?auto=format&fit=crop&w=1200&q=80" alt="Banner" width="100%" />
 </p>
 
+<!-- Avatar centralizado -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/000000?v=4" alt="Avatar" width="120" style="border-radius:50%;" />
+</p>
+
 <h1 align="center">👋 Olá, eu sou o Heitor</h1>
 <p align="center">
 🎓 Estudante de Informática | 🌱 Aprendendo Arduino, ESP8266/ESP32 e Web | 🚀 Criando projetos práticos
@@ -26,11 +31,17 @@
 
 ## 🚀 Projetos em Destaque
 
-| Projeto | Descrição | Link |
-|---------|-----------|------|
-| 🌦️ Estação Meteorológica | Medição de temperatura, umidade e luminosidade com ESP8266 | [Repositório](https://github.com/HeitorSouzaSoares25/estacao-meteorologica) |
-| 🐳 Landing Page Plástico | Impacto do plástico nos mares | [Repositório](https://github.com/HeitorSouzaSoares25/landing-plastico) |
-| 💻 Portfólio Pessoal | Meus projetos e estudos | [Repositório](https://github.com/HeitorSouzaSoares25/portfolio) |
+<p align="center">
+  <a href="https://github.com/HeitorSouzaSoares25/estacao-meteorologica">
+    <img src="https://img.shields.io/badge/-🌦️%20Estação%20Meteorológica-blue?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/HeitorSouzaSoares25/landing-plastico">
+    <img src="https://img.shields.io/badge/-🐳%20Landing%20Page%20Plástico-green?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/HeitorSouzaSoares25/portfolio">
+    <img src="https://img.shields.io/badge/-💻%20Portfólio%20Pessoal-purple?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
