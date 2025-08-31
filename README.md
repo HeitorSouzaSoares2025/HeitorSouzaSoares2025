@@ -35,7 +35,7 @@
 - Focado em monitoramento das condições climáticas  
 [📁 Ver todos os projetos](#)
 
-### 24️⃣ Landing Page sobre Plástico nos Mares 🐠
+### 4️⃣ Landing Page sobre Plástico nos Mares 🐠
 - HTML, CSS e JS  
 - Conteúdo educativo e visual  
 - Focado em conscientização ambiental  
