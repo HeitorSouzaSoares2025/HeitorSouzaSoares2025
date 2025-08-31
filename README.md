@@ -16,7 +16,6 @@
 ## 🚀 Projetos em destaque
 
 ### 1️⃣ Estação Meteorológica 🌡️
-![Estação Meteorológica GIF](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif)
 - ESP8266 + DHT22 + LDR  
 - Envio de dados para site em tempo real  
 - Gráficos interativos com Chart.js  
@@ -24,7 +23,6 @@
 [📁 Ver projeto](#)
 
 ### 2️⃣ Landing Page sobre Plástico nos Mares 🐠
-![Landing Page GIF](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
 - HTML, CSS e JS  
 - Conteúdo educativo e visual  
 - Focado em conscientização ambiental  
@@ -39,7 +37,9 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-![Heitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeitorSouzaSoares25&show_icons=true&theme=radical)
+![HeitorSouzaSoares25's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeitorSouzaSoares25&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorSouzaSoares25&layout=compact&theme=radical)
 
 ---
 
@@ -56,10 +56,4 @@
 ## 📫 Contato
 - ✉️ E-mail: `heitor@example.com`  
 - 💼 LinkedIn: [Seu LinkedIn](#)  
-- 🐙 GitHub: [HeitorSouzaSoares25](https://github.com/HeitorSouzaSoares25)  
-
----
-
-## 🌟 Extra Visual
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorSouzaSoares25&layout=compact&theme=radical)
-
+- 🐙 GitHub: [HeitorSouzaSoares25](https://github.com/HeitorSouzaSoares25)
