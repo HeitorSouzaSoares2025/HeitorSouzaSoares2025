@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Heitor Souza Soares
 
-Sou estudante de **Informática** no **2º ano do Ensino Médio**, apaixonado por **desenvolvimento web, programação e tecnologia**.  
+Sou estudante de **Informática** no **2º ano do Ensino Médio**, um curioso por **desenvolvimento web, programação e tecnologia**.  
 Aqui você encontrará meus projetos, experimentos e aprendizados.
 
 ---
@@ -26,7 +26,7 @@ Aqui você encontrará meus projetos, experimentos e aprendizados.
 <!-- Projeto 1 -->
 <div style="border: 2px solid #00979D; border-radius: 12px; padding: 15px; width: 300px; background-color: #f0f8ff;">
   <h3>🌡️ Estação Meteorológica ESP8266</h3>
-  <p>Projeto de monitoramento ambiental em tempo real, capturando <b>temperatura, umidade e luminosidade</b> através de sensores. Inclui painel web interativo e envio automático de relatórios por e-mail.</p>
+  <p>Projeto de monitoramento ambiental em tempo real, capturando <b>temperatura, umidade e luminosidade</b> através de sensores. Inclui painel web dinâmico e envio automático de relatórios por e-mail.</p>
   <p>
     <b>Tecnologias:</b><br>
     <img src="https://img.shields.io/badge/ESP8266-FF6F00?style=flat&logo=esp8266&logoColor=white"/> 
@@ -42,8 +42,8 @@ Aqui você encontrará meus projetos, experimentos e aprendizados.
 
 <!-- Projeto 2 -->
 <div style="border: 2px solid #1572B6; border-radius: 12px; padding: 15px; width: 300px; background-color: #e6f2ff;">
-  <h3>🌱 Landing Page Meio Ambiente</h3>
-  <p>Landing page interativa que conscientiza sobre o impacto do plástico nos oceanos. Possui <b>design responsivo</b>, animações suaves e conteúdo educativo para usuários de todas as idades.</p>
+  <h3>🔰 Site Pessoal</h3>
+  <p>Um site pessoal criado criado na intenção de guardar projetos escolares e ser um site central de direcionamento. Só ressaltando que esse site é para fins escolares</p>
   <p>
     <b>Tecnologias:</b><br>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> 
@@ -55,12 +55,14 @@ Aqui você encontrará meus projetos, experimentos e aprendizados.
 
 <!-- Projeto 3 -->
 <div style="border: 2px solid #777BB4; border-radius: 12px; padding: 15px; width: 300px; background-color: #f3f0ff;">
-  <h3>🔐 Gerenciador de Senhas</h3>
-  <p>Aplicativo seguro para armazenar e gerenciar senhas com facilidade. Permite <b>login seguro</b>, cadastro de múltiplas contas e proteção básica para manter suas informações organizadas.</p>
+  <h3>🔐 Gerenciador e Armazenador de Senhas D2FA</h3>
+  <p>Um sistema seguro e confiável criado visando guardar de forma segura e prática informações confidenciais. Esse foi um projeto iniciado em maio de 2025 e terminado em agosto.</p>
   <p>
     <b>Tecnologias:</b><br>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+    ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> 
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> 
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
