@@ -27,7 +27,7 @@
 - HTML, CSS e JS  
 - Site pessoal usado para guardar Projetos Escolares e linkagens  
    Site criativo e dinâmico  
-[📁 Ver projeto](#)
+[📁 Ver projeto](https://heitorsouzasoares2025.github.io/HeitorSS/)
 
 ### 3️⃣ Estação Meteorológica 🌡  
 - Html, Css, Js, Phh, Sql e C++  
