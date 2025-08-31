@@ -20,7 +20,7 @@
 - Envio de dados para site em tempo real  
 - Interface interativa e moderna  
 - Sistema seguro e de fácil manuseio  
-[📁 Ver projeto](#)
+[📁 Ver projeto](https://heitor.wuaze.com/?i=2)
 
 ### 2️⃣ Landing Page sobre Plástico nos Mares 🐠
 - HTML, CSS e JS  
