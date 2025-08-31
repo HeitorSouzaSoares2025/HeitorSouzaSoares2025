@@ -23,10 +23,10 @@
 - Sistema seguro e de fácil manuseio  
 [📁 Ver projeto](https://heitor.wuaze.com/?i=2)
 
-### 2️⃣ Landing Page sobre Plástico nos Mares 🐠
+### 2️⃣ Site Pessoal 🔰
 - HTML, CSS e JS  
-- Conteúdo educativo e visual  
-- Focado em conscientização ambiental  
+- Site pessoal usado para guardar Projetos Escolares e linkagens  
+   Site criativo e dinâmico  
 [📁 Ver projeto](#)
 
 ### 3️⃣ Estação Meteorológica 🌡  
@@ -34,6 +34,12 @@
 - Site com gráficos dinâmicos e em tempo real
 - Focado em monitoramento das condições climáticas  
 [📁 Ver todos os projetos](#)
+
+### 24️⃣ Landing Page sobre Plástico nos Mares 🐠
+- HTML, CSS e JS  
+- Conteúdo educativo e visual  
+- Focado em conscientização ambiental  
+[📁 Ver projeto](#)
 
 ---
 
