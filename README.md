@@ -21,8 +21,6 @@ Aqui você encontrará meus projetos, experimentos e aprendizados.
 
 ## 🚀 Meus Projetos
 
-<div style="display: flex; flex-direction: column; gap: 40px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-
 <!-- Projeto 1 -->
 <div style="border: 2px solid #00979D; border-radius: 12px; padding: 20px; background-color: #f0f8ff; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <h3>🌡️ Estação Meteorológica ESP8266</h3>
@@ -39,8 +37,10 @@ Aqui você encontrará meus projetos, experimentos e aprendizados.
   </p>
   <p>
     <a href="https://github.com/HeitorSouzaSoares25/EstacaoMeteorologica" style="text-decoration:none; background-color:#181717; color:white; padding:10px 16px; border-radius:20px; margin-right:8px;">🌦️ Ver Código</a>
+    <a href="https://heitor.wuaze.com/estacao" style="text-decoration:none; background-color:#0A66C2; color:white; padding:10px 16px; border-radius:20px;">📂 Acessar Projeto Online</a>
   </p>
 </div>
+
 
 <!-- Projeto 2 -->
 <div style="border: 2px solid #1572B6; border-radius: 12px; padding: 20px; background-color: #e6f2ff; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
