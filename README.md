@@ -24,18 +24,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HeitorSouzaSoares25&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorSouzaSoares25&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 🚀 Projetos em Destaque
 
 | Projeto | Descrição | Link |
@@ -49,7 +37,9 @@
 ## 🌎 Contato
 
 <p align="center">
-➡️ Coloque aqui seus links (ex: LinkedIn, e-mail, site pessoal)
+<a href="https://linkedin.com/in/SEU_LINK"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:SEU_EMAIL@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://SEU_SITE.com"><img src="https://img.shields.io/badge/-Site-Purple?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
