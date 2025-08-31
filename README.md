@@ -14,43 +14,41 @@ Aqui você encontrará meus projetos, experimentos e aprendizados.
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
 </p>
-
-**Nível de Proficiência:**
-
-- HTML5: 70%  
-- CSS3: 65%  
-- JavaScript: 60%  
-- PHP: 55%  
-- MySQL: 50%  
-- Arduino: 60%  
 
 ---
 
 ## 🚀 Meus Projetos
 
+<div>
+
 ### 🌡️ Estação Meteorológica ESP8266
-- Sistema com sensores de temperatura, umidade e luminosidade.  
-- Painel web em tempo real e envio automático de e-mails.  
-- [Ver Projeto](https://github.com/HeitorSouzaSoares25/EstacaoMeteorologica)
+**Descrição:** Sistema completo com sensores de temperatura, umidade e luminosidade.  
+**Tecnologias:** ESP8266, Arduino, PHP, MySQL, HTML, CSS, JavaScript  
+**Link:** [Ver Projeto](https://github.com/HeitorSouzaSoares25/EstacaoMeteorologica)
 
 ### 🌱 Landing Page Meio Ambiente
-- Página sobre o impacto do plástico nos oceanos.  
-- Layout responsivo com animações em JavaScript.  
-- [Ver Projeto](https://github.com/HeitorSouzaSoares25/LandingPageMeioAmbiente)
+**Descrição:** Página interativa sobre o impacto do plástico nos oceanos, com layout responsivo e animações.  
+**Tecnologias:** HTML, CSS, JavaScript  
+**Link:** [Ver Projeto](https://github.com/HeitorSouzaSoares25/LandingPageMeioAmbiente)
 
 ### 🔐 Gerenciador de Senhas
-- Sistema seguro de armazenamento de senhas com login simples.  
-- Proteção básica e fácil de usar.  
-- [Ver Projeto](https://github.com/HeitorSouzaSoares25/GerenciadorSenhas)
+**Descrição:** Sistema seguro de armazenamento de senhas com login simples e proteção básica.  
+**Tecnologias:** PHP, MySQL, HTML, CSS, JavaScript  
+**Link:** [Ver Projeto](https://github.com/HeitorSouzaSoares25/GerenciadorSenhas)
+
+</div>
 
 ---
 
 ## 📫 Contato
 
-- GitHub: [HeitorSouzaSoares25](https://github.com/HeitorSouzaSoares25)  
-- Email: seuemail@email.com  
-- LinkedIn: [SeuLinkedIn](https://linkedin.com/in/seulinkedin)  
+<p align="left">
+  <a href="https://github.com/HeitorSouzaSoares25" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:seuemail@email.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/seulinkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
 ---
 
