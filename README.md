@@ -26,7 +26,7 @@ Aqui você encontrará meus projetos, experimentos e aprendizados.
 <!-- Projeto 1 -->
 <div style="border: 2px solid #00979D; border-radius: 12px; padding: 15px; width: 300px; background-color: #f0f8ff;">
   <h3>🌡️ Estação Meteorológica ESP8266</h3>
-  <p>Sistema completo com sensores de temperatura, umidade e luminosidade.</p>
+  <p>Projeto de monitoramento ambiental em tempo real, capturando <b>temperatura, umidade e luminosidade</b> através de sensores. Inclui painel web interativo e envio automático de relatórios por e-mail.</p>
   <p>
     <b>Tecnologias:</b><br>
     <img src="https://img.shields.io/badge/ESP8266-FF6F00?style=flat&logo=esp8266&logoColor=white"/> 
@@ -37,26 +37,26 @@ Aqui você encontrará meus projetos, experimentos e aprendizados.
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> 
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   </p>
-  <a href="https://github.com/HeitorSouzaSoares25/EstacaoMeteorologica">🔗 Ver Projeto</a>
+  <p><a href="https://github.com/HeitorSouzaSoares25/EstacaoMeteorologica" style="text-decoration:none; color:white; background-color:#00979D; padding:6px 12px; border-radius:5px;">🔗 Acessar Projeto</a></p>
 </div>
 
 <!-- Projeto 2 -->
 <div style="border: 2px solid #1572B6; border-radius: 12px; padding: 15px; width: 300px; background-color: #e6f2ff;">
   <h3>🌱 Landing Page Meio Ambiente</h3>
-  <p>Página interativa sobre o impacto do plástico nos oceanos.</p>
+  <p>Landing page interativa que conscientiza sobre o impacto do plástico nos oceanos. Possui <b>design responsivo</b>, animações suaves e conteúdo educativo para usuários de todas as idades.</p>
   <p>
     <b>Tecnologias:</b><br>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> 
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> 
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   </p>
-  <a href="https://github.com/HeitorSouzaSoares25/LandingPageMeioAmbiente">🔗 Ver Projeto</a>
+  <p><a href="https://github.com/HeitorSouzaSoares25/LandingPageMeioAmbiente" style="text-decoration:none; color:white; background-color:#1572B6; padding:6px 12px; border-radius:5px;">🔗 Acessar Projeto</a></p>
 </div>
 
 <!-- Projeto 3 -->
 <div style="border: 2px solid #777BB4; border-radius: 12px; padding: 15px; width: 300px; background-color: #f3f0ff;">
   <h3>🔐 Gerenciador de Senhas</h3>
-  <p>Sistema seguro de armazenamento de senhas com login simples.</p>
+  <p>Aplicativo seguro para armazenar e gerenciar senhas com facilidade. Permite <b>login seguro</b>, cadastro de múltiplas contas e proteção básica para manter suas informações organizadas.</p>
   <p>
     <b>Tecnologias:</b><br>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/> 
@@ -65,11 +65,10 @@ Aqui você encontrará meus projetos, experimentos e aprendizados.
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> 
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   </p>
-  <a href="https://github.com/HeitorSouzaSoares25/GerenciadorSenhas">🔗 Ver Projeto</a>
+  <p><a href="https://github.com/HeitorSouzaSoares25/GerenciadorSenhas" style="text-decoration:none; color:white; background-color:#777BB4; padding:6px 12px; border-radius:5px;">🔗 Acessar Projeto</a></p>
 </div>
 
 </div>
-
 
 ---
 
