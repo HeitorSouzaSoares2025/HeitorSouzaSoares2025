@@ -71,8 +71,8 @@ Nesse repositório você poderá acessar os meus projetos mais relevantes
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
 </p>
 <p>
-    <a href="https://github.com/HeitorSouzaSoares25/EstacaoMeteorologica" style="text-decoration:none; background-color:#181717; color:white; padding:10px 16px; border-radius:20px; margin-right:8px;">🌡 Ver Código</a>
-    <a href="https://heitor.wuaze.com/estacao" style="text-decoration:none; background-color:#0A66C2; color:white; padding:10px 16px; border-radius:20px;">📂 Acessar Projeto Online</a>
+    <a href="https://github.com/HeitorSouzaSoares25/EstacaoMeteorologica](https://github.com/HeitorSouzaSoares2025/Portifolio" style="text-decoration:none; background-color:#181717; color:white; padding:10px 16px; border-radius:20px; margin-right:8px;">🌡 Ver Código</a>
+    <a href="https://heitor.wuaze.com/estacao](https://heitorsouzasoares2025.github.io/Portifolio" style="text-decoration:none; background-color:#0A66C2; color:white; padding:10px 16px; border-radius:20px;">📂 Acessar Projeto Online</a>
   </p
 
 </div>
