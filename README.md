@@ -61,18 +61,16 @@ Nesse repositório você poderá acessar os meus projetos mais relevantes
 
 <!-- Projeto 3 -->
 <div style="border: 2px solid #1572B6; border-radius: 12px; padding: 20px; background-color: #e6f2ff; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  <h3>🌊 Portifolio</h3>
-  <p>Site desenvolvido em grupo para apresentação escolar sobre o jogo Subnautica, com criação da página por minha parte.</p>
+  <h3>📰 Portifolio</h3>
+  <p>Portifolio desenvolvido para apresentação sobre a minha pessoa e sobre os meus projetos</p>
   <p>
-    <b>Tecnologias:</b><br>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  </p>
-  <p>
-    <a href="https://github.com/HeitorSouzaSoares2025/Subnautica" style="text-decoration:none; background-color:#181717; color:white; padding:10px 16px; border-radius:20px; margin-right:8px;">🌊 Ver Código</a>
-    <a href="https://heitorsouzasoares2025.github.io/Subnautica/" style="text-decoration:none; background-color:#0A66C2; color:white; padding:10px 16px; border-radius:20px;">📂 Acessar Projeto Online</a>
-  </p>
+  <b>Tecnologias:</b><br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
+</p>
+
 </div>
 
 ---
@@ -99,7 +97,7 @@ Nesse repositório você poderá acessar os meus projetos mais relevantes
 
 <!-- Projeto 5 -->
 <div style="border: 2px solid #1572B6; border-radius: 12px; padding: 20px; background-color: #e6f2ff; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  <h3>🌊 Portifolio</h3>
+  <h3>🌊 Subnautica</h3>
   <p>Site desenvolvido em grupo para apresentação escolar sobre o jogo Subnautica, com criação da página por minha parte.</p>
   <p>
     <b>Tecnologias:</b><br>
