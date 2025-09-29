@@ -20,7 +20,7 @@ Neste repositório você encontra meus projetos mais relevantes.
 ## 🚀 Meus Projetos
 
 ### 🔐 [Gerenciador e Armazenador de Senhas D2FA](https://github.com/HeitorSouzaSoares2025/Armazenador-e-Gerenciador-de-Senhas-2FA)
-Sistema seguro para guardar informações confidenciais.  
+Sistema seguro utilizando Google Authenticator como duplo fator de autenticação, além de senhas segura em hash ficando visível apenas no painel de controle do usuário para guardar informações confidenciais 
 **Tecnologias:** PHP, SQL, HTML, CSS, JS  
 🔗 [Acessar Projeto Online](https://heitor.wuaze.com/)
 
