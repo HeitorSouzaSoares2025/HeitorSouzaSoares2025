@@ -41,7 +41,7 @@ Administre suas tarefas e obrgações de forma eficiente e prática com essa lis
 
 ---
 
-### 🌡️ [Estação Meteorológica ESP8266](https://github.com/HeitorSouzaSoares2025/Esta-o-Meteorol-gica-)
+### 🌡️ [Estação Meteorológica](https://github.com/HeitorSouzaSoares2025/Esta-o-Meteorol-gica-)
 Monitoramento de **temperatura, umidade e luminosidade** com painel web utilizando biblioteca JavaScript
 
 **Tecnologias:** ESP8266, Arduino, PHP, MySQL, HTML, CSS e JS  
