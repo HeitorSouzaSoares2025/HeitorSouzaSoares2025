@@ -73,7 +73,21 @@ Venha conhecer um pouco sobre das minhas atividades do curso realizadas em labor
 
 ---
 
-### 🌊 [Subnautica](https://github.com/HeitorSouzaSoares2025/Subnautica)
+### 🌊 [O Grito do Oceano](https://github.com/HeitorSouzaSoares2025/Landing-Page---O-Grito-do-Oceano)
+Entenda como o plástico nos mares afeta tanto a vida marinha e a vida humana, ou seja, as consequências do plásitico nos mares
+
+**Tecnologias:** HTML, CSS e JS  
+🔗 [Acessar Projeto Online](https://heitorsouzasoares2025.github.io/Landing-Page---O-Grito-do-Oceano/)
+
+---)
+Conheça um pouco da lore do jogo de Subnaútica entendendo melhor sobre seus principais mobs, itens e até mesmo do protagonista
+
+**Tecnologias:** HTML, CSS e JS  
+🔗 [Acessar Projeto Online](https://heitorsouzasoares2025.github.io/Subnautica/)
+
+---
+
+### 💧 [Subnautica](https://github.com/HeitorSouzaSoares2025/Subnautica)
 Conheça um pouco da lore do jogo de Subnaútica entendendo melhor sobre seus principais mobs, itens e até mesmo do protagonista
 
 **Tecnologias:** HTML, CSS e JS  
