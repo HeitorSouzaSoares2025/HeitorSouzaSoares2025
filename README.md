@@ -19,37 +19,51 @@ Neste repositório você encontra meus projetos mais relevantes.
 
 ## 🚀 Meus Projetos
 
-### 🔐 [Gerenciador e Armazenador de Senhas D2FA](https://github.com/HeitorSouzaSoares2025/Armazenador-e-Gerenciador-de-Senhas-2FA)
-Sistema seguro utilizando Google Authenticator como duplo fator de autenticação, além de senhas segura em hash ficando visível apenas no painel de controle do usuário para guardar informações confidenciais 
-**Tecnologias:** PHP, SQL, HTML, CSS, JS  
-🔗 [Acessar Projeto Online](https://heitor.wuaze.com/)
+### 🗃 [Central de Projetos](https://github.com/HeitorSouzaSoares2025/CentralSS)
+Venha conhecer todos os meus projetos de forma detalhada e simples, podendo verificar se o site está no ar ou não apartir de uma verificação de latência configurada com JavaScript
+**Tecnologias:** HTML, CSS, JS, TAILWIND CSS  
+🔗 [Acessar Projeto Online](https://central.wuaze.com/)
 
 ---
 
-### 🔰 [Site Pessoal](https://github.com/HeitorSouzaSoares2025/HeitorSS)
-Site para guardar projetos e servir como central de direcionamento.  
-**Tecnologias:** HTML, CSS, JS  
-🔗 [Acessar Projeto Online](https://heitorsouzasoares2025.github.io/HeitorSS/)
-
----
-
-### 📰 [Portfólio](https://github.com/HeitorSouzaSoares2025/Portifolio)
-Página pessoal para apresentação de projetos.  
-**Tecnologias:** HTML, CSS, JS, Bootstrap  
-🔗 [Acessar Projeto Online](https://heitorsouzasoares2025.github.io/Portifolio/)
+### 📋 [To-Do List](https://github.com/HeitorSouzaSoares2025/To-doList)
+Administre suas tarefas e obrgações de forma eficiente e prática com essa lista e ganhe badges com seu esforço 
+**Tecnologias:** HTML, CSS, JS e CHART.JS  
+🔗 [Acessar Projeto Online](https://heitorsouzasoares2025.github.io/To-dolist/)
 
 ---
 
 ### 🌡️ [Estação Meteorológica ESP8266](https://github.com/HeitorSouzaSoares25/EstacaoMeteorologica)
-Monitoramento de **temperatura, umidade e luminosidade** com painel web.  
-**Tecnologias:** ESP8266, Arduino, PHP, MySQL, HTML, CSS, JS  
+Monitoramento de **temperatura, umidade e luminosidade** com painel web utilizando biblioteca JavaScript  
+**Tecnologias:** ESP8266, Arduino, PHP, MySQL, HTML, CSS e JS  
 🔗 [Acessar Projeto Online](https://estacaometeorologicass.wuaze.com)
 
 ---
 
+### 🔐 [Gerenciador e Armazenador de Senhas D2FA](https://github.com/HeitorSouzaSoares2025/Armazenador-e-Gerenciador-de-Senhas-2FA)
+Sistema seguro utilizando Google Authenticator como duplo fator de autenticação, além de senhas segura em hash ficando visível apenas no painel de controle do usuário para guardar informações confidenciais 
+**Tecnologias:** PHP, SQL, HTML, CSS e JS  
+🔗 [Acessar Projeto Online](https://heitor.wuaze.com/)
+
+---
+
+### 📰 [Portfólio](https://github.com/HeitorSouzaSoares2025/Portifolio)
+Página pessoal para apresentação de projetos, habilidades e formas de contato  
+**Tecnologias:** HTML, CSS, JS e Bootstrap  
+🔗 [Acessar Projeto Online](https://heitorsouzasoares2025.github.io/Portifolio/)
+
+---
+
+### 🔰 [Site Pessoal](https://github.com/HeitorSouzaSoares2025/HeitorSS)
+Venha conhecer um pouco sobre das minhas atividades do curso realizadas em laboratório 
+**Tecnologias:** HTML, CSS e JS  
+🔗 [Acessar Projeto Online](https://heitorsouzasoares2025.github.io/HeitorSS/)
+
+---
+
 ### 🌊 [Subnautica](https://github.com/HeitorSouzaSoares2025/Subnautica)
-Site temático desenvolvido em grupo para apresentação escolar.  
-**Tecnologias:** HTML, CSS, JS  
+Conheça um pouco da lore do jogo de Subnaútica entendendo melhor sobre seus principais mobs, itens e até mesmo do protagonista 
+**Tecnologias:** HTML, CSS e JS  
 🔗 [Acessar Projeto Online](https://heitorsouzasoares2025.github.io/Subnautica/)
 
 ---
