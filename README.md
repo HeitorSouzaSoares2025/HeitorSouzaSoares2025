@@ -28,7 +28,7 @@ Neste repositório você encontra meus projetos mais relevantes.
 ### 🗃 [Central de Projetos](https://github.com/HeitorSouzaSoares2025/CentralSS)
 Venha conhecer todos os meus projetos de forma detalhada e simples, podendo verificar se o site está no ar ou não apartir de uma verificação de latência configurada com JavaScript
 
-**Tecnologias:** HTML, CSS, JS, TAILWIND CSS  
+**Tecnologias:** HTML, CSS, JS e TAILWIND CSS  
 🔗 [Acessar Projeto Online](https://central.wuaze.com/)
 
 ---
@@ -44,7 +44,7 @@ Administre suas tarefas e obrgações de forma eficiente e prática com essa lis
 ### 🌡️ [Estação Meteorológica](https://github.com/HeitorSouzaSoares2025/Esta-o-Meteorol-gica-)
 Monitoramento de **temperatura, umidade e luminosidade** com painel web utilizando biblioteca JavaScript
 
-**Tecnologias:** ESP8266, Arduino, PHP, MySQL, HTML, CSS e JS  
+**Tecnologias:** HTML, CSS, JS, PHP, C++ e SQL  
 🔗 [Acessar Projeto Online](https://estacaometeorologicass.wuaze.com)
 
 ---
@@ -52,7 +52,7 @@ Monitoramento de **temperatura, umidade e luminosidade** com painel web utilizan
 ### 🔐 [Gerenciador e Armazenador de Senhas D2FA](https://github.com/HeitorSouzaSoares2025/Armazenador-e-Gerenciador-de-Senhas-2FA)
 Sistema seguro utilizando Google Authenticator como duplo fator de autenticação, além de senhas segura em hash ficando visível apenas no painel de controle do usuário para guardar informações confidenciais
 
-**Tecnologias:** PHP, SQL, HTML, CSS e JS  
+**Tecnologias:** HTML, CSS, JS, PHP e SQL  
 🔗 [Acessar Projeto Online](https://heitor.wuaze.com/)
 
 ---
