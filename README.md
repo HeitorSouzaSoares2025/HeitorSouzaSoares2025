@@ -40,35 +40,40 @@ Administre suas tarefas e obrgações de forma eficiente e prática com essa lis
 ---
 
 ### 🌡️ [Estação Meteorológica ESP8266](https://github.com/HeitorSouzaSoares25/EstacaoMeteorologica)
-Monitoramento de **temperatura, umidade e luminosidade** com painel web utilizando biblioteca JavaScript  
+Monitoramento de **temperatura, umidade e luminosidade** com painel web utilizando biblioteca JavaScript
+
 **Tecnologias:** ESP8266, Arduino, PHP, MySQL, HTML, CSS e JS  
 🔗 [Acessar Projeto Online](https://estacaometeorologicass.wuaze.com)
 
 ---
 
 ### 🔐 [Gerenciador e Armazenador de Senhas D2FA](https://github.com/HeitorSouzaSoares2025/Armazenador-e-Gerenciador-de-Senhas-2FA)
-Sistema seguro utilizando Google Authenticator como duplo fator de autenticação, além de senhas segura em hash ficando visível apenas no painel de controle do usuário para guardar informações confidenciais 
+Sistema seguro utilizando Google Authenticator como duplo fator de autenticação, além de senhas segura em hash ficando visível apenas no painel de controle do usuário para guardar informações confidenciais
+
 **Tecnologias:** PHP, SQL, HTML, CSS e JS  
 🔗 [Acessar Projeto Online](https://heitor.wuaze.com/)
 
 ---
 
 ### 📰 [Portfólio](https://github.com/HeitorSouzaSoares2025/Portifolio)
-Página pessoal para apresentação de projetos, habilidades e formas de contato  
+Página pessoal para apresentação de projetos, habilidades e formas de contato
+
 **Tecnologias:** HTML, CSS, JS e Bootstrap  
 🔗 [Acessar Projeto Online](https://heitorsouzasoares2025.github.io/Portifolio/)
 
 ---
 
 ### 🔰 [Site Pessoal](https://github.com/HeitorSouzaSoares2025/HeitorSS)
-Venha conhecer um pouco sobre das minhas atividades do curso realizadas em laboratório 
+Venha conhecer um pouco sobre das minhas atividades do curso realizadas em laboratório
+
 **Tecnologias:** HTML, CSS e JS  
 🔗 [Acessar Projeto Online](https://heitorsouzasoares2025.github.io/HeitorSS/)
 
 ---
 
 ### 🌊 [Subnautica](https://github.com/HeitorSouzaSoares2025/Subnautica)
-Conheça um pouco da lore do jogo de Subnaútica entendendo melhor sobre seus principais mobs, itens e até mesmo do protagonista 
+Conheça um pouco da lore do jogo de Subnaútica entendendo melhor sobre seus principais mobs, itens e até mesmo do protagonista
+
 **Tecnologias:** HTML, CSS e JS  
 🔗 [Acessar Projeto Online](https://heitorsouzasoares2025.github.io/Subnautica/)
 
