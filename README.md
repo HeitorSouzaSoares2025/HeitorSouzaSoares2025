@@ -25,13 +25,15 @@ Neste repositório você encontra meus projetos mais relevantes.
 
 ### 🗃 [Central de Projetos](https://github.com/HeitorSouzaSoares2025/CentralSS)
 Venha conhecer todos os meus projetos de forma detalhada e simples, podendo verificar se o site está no ar ou não apartir de uma verificação de latência configurada com JavaScript
+
 **Tecnologias:** HTML, CSS, JS, TAILWIND CSS  
 🔗 [Acessar Projeto Online](https://central.wuaze.com/)
 
 ---
 
 ### 📋 [To-Do List](https://github.com/HeitorSouzaSoares2025/To-doList)
-Administre suas tarefas e obrgações de forma eficiente e prática com essa lista e ganhe badges com seu esforço 
+Administre suas tarefas e obrgações de forma eficiente e prática com essa lista e ganhe badges com seu esforço
+
 **Tecnologias:** HTML, CSS, JS e CHART.JS  
 🔗 [Acessar Projeto Online](https://heitorsouzasoares2025.github.io/To-dolist/)
 
