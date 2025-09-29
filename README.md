@@ -57,7 +57,7 @@ Sistema seguro utilizando Google Authenticator como duplo fator de autenticaçã
 
 ---
 
-### 📰 [Portfólio](https://github.com/HeitorSouzaSoares2025/Portifolio)
+### 📰 [Portifólio](https://github.com/HeitorSouzaSoares2025/Portifolio)
 Página pessoal para apresentação de projetos, habilidades e formas de contato
 
 **Tecnologias:** HTML, CSS, JS e Bootstrap  
