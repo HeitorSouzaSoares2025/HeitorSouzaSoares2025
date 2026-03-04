@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Heitor Souza Soares
 
-Sou estudante de **Informática** no **2º ano do Ensino Médio**, apaixonado por **desenvolvimento web, programação e tecnologia**.  
-Neste repositório você encontra meus projetos mais relevantes.
+Sou estudante de **Informática** no **3º ano do Ensino Médio**, apaixonado por **desenvolvimento web, automação e tecnologia**.  
+Neste repositório você encontrará todos os meus projetos públicos, sejam eles puramente Front-End ou Full Stack
 
 ---
 
