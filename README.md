@@ -30,28 +30,28 @@ Sou estudante de Informática (3º ano) focado no desenvolvimento de soluções 
 - **Destaque:** Implementação de Hash de segurança e Google Authenticator.
 - **Stack:** `PHP` `SQL` `JavaScript`
 - Status: [ Em manutenção ]
-- 🔗 [Repositório](https://github.com/HeitorSouzaSoares2025/Armazenador-e-Gerenciador-de-Senhas-2FA) | [Live Demo](https://heitor.wuaze.com/)
+- 🔗 [Repositório](https://github.com/HeitorSouzaSoares2025/Armazenador-e-Gerenciador-de-Senhas-2FA) | [Visitar](https://heitor.wuaze.com/)
 
 #### 🌡️ Estação Meteorológica IoT
 *Dashboard em tempo real para monitoramento climático via sensores.*
 - **Destaque:** Integração de hardware (Arduino) com banco de dados remoto.
 - **Stack:** `C++` `PHP` `SQL` `Chart.js`
 - Status: [ Em manutenção ]
-- 🔗 [Repositório](https://github.com/HeitorSouzaSoares2025/Esta-o-Meteorol-gica-) | [Live Demo](https://estacaometeorologicass.wuaze.com)
+- 🔗 [Repositório](https://github.com/HeitorSouzaSoares2025/Esta-o-Meteorol-gica-) | [Visitar](https://estacaometeorologicass.wuaze.com)
 
 #### 🗃️ Central de Projetos (Dashboard)
 *Hub centralizado para monitoramento de latência e status de deploys.*
 - **Destaque:** Verificação dinâmica de status via JavaScript.
 - **Stack:** `JavaScript` `Tailwind CSS` `HTML`
 - Status: [ Em manutenção ]
-- 🔗 [Repositório](https://github.com/HeitorSouzaSoares2025/CentralSS) | [Live Demo](https://central.wuaze.com/)
+- 🔗 [Repositório](https://github.com/HeitorSouzaSoares2025/CentralSS) | [Visitar](https://central.wuaze.com/)
 
 #### 🌊 O Grito do Oceano
 *Landing Page interativa sobre conscientização ambiental.*
 - **Destaque:** Foco em UI/UX e performance responsiva.
 - **Stack:** `HTML` `CSS` `JavaScript`
 - Status: [ Em manutenção ]
-- 🔗 [Repositório](https://github.com/HeitorSouzaSoares2025/Landing-Page---O-Grito-do-Oceano) | [Live Demo](https://heitorsouzasoares2025.github.io/Landing-Page---O-Grito-do-Oceano/)
+- 🔗 [Repositório](https://github.com/HeitorSouzaSoares2025/Landing-Page---O-Grito-do-Oceano) | [Visitar](https://heitorsouzasoares2025.github.io/Landing-Page---O-Grito-do-Oceano/)
 
 ---
 
