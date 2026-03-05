@@ -1,67 +1,84 @@
-# 👋 Olá! Eu sou Heitor Souza Soares
-
-Sou estudante de **Informática** no **3º ano do Ensino Médio**, apaixonado por **desenvolvimento Full Stack, automação e segurança**. 
-Neste perfil, você encontrará projetos que variam de interfaces modernas no Front-End a sistemas robustos com integração de hardware e nuvem.
-
----
-
-## 💻 Tecnologias e Habilidades
-
-### 🌐 Front-End & Design
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" height="35"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" height="35"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="35"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" height="35"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" height="35"/>
-</p>
-
-### ⚙️ Back-End, Database & Cloud
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="35"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" height="35"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white" alt="SQL" height="35"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" height="35"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino" height="35"/>
-</p>
-
-### 🛠️ Ferramentas & Controle de Versão
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="35"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" height="35"/>
-</p>
-
----
-
-## 🚀 Projetos em Destaque
-
-### 🔐 [Gerenciador de Senhas D2FA](https://github.com/HeitorSouzaSoares2025/Armazenador-e-Gerenciador-de-Senhas-2FA)
-Sistema focado em segurança utilizando **Google Authenticator** para duplo fator de autenticação e armazenamento de senhas com Hash.
-**Stack:** PHP, SQL, JS e CSS. 
-🔗 [Ver Online](https://heitor.wuaze.com/)
-
-### 🌡️ [Estação Meteorológica IoT](https://github.com/HeitorSouzaSoares2025/Esta-o-Meteorol-gica-)
-Monitoramento em tempo real de temperatura, umidade e luminosidade integrando hardware e web.
-**Stack:** C++ (Arduino), PHP, SQL e Chart.js.
-🔗 [Ver Online](https://estacaometeorologicass.wuaze.com)
-
-### 🗃 [Central de Projetos (Dashboard)](https://github.com/HeitorSouzaSoares2025/CentralSS)
-Um hub centralizado para gerenciar e visualizar o status de latência de todos os meus deploys.
-**Stack:** HTML, JS e Tailwind CSS.
-🔗 [Ver Online](https://central.wuaze.com/)
-
----
-
-## 📈 Estatísticas do GitHub
-
+# 👋 Olá, eu sou o Heitor Souza Soares!
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HeitorSouzaSoares2025&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorSouzaSoares2025&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F2FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Entusiasta+de+IoT+e+Automação;Estudante+de+Informática+3º+Ano" alt="Typing SVG" />
 </p>
 
 ---
 
-## 📫 Vamos nos conectar?
+### 🚀 Sobre Mim
+Sou um desenvolvedor em formação focado em criar soluções que unem o mundo físico (IoT) ao digital (Web). Atualmente, curso o 3º ano de Informática e dedico meu tempo livre a explorar **segurança de dados** e **arquiteturas escaláveis**.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heitorinformaticasala09@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
+* 🔭 Atualmente trabalhando em: **Sistemas com Autenticação 2FA**
+* 🌱 Aprendendo: **React.js e Integrações Avançadas com Firebase**
+* ⚡ Hobbie: **Explorar novas bibliotecas de visualização de dados**
+
+---
+
+### 🛠️ Toolbox Tecnológica
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Front-End** | `HTML5` `CSS3` `JavaScript` `Tailwind CSS` `Bootstrap` |
+| **Back-End** | `PHP` `Python` `C++ (Arduino)` |
+| **Database & Cloud** | `SQL` `Firebase` `SQLite` |
+| **Ferramentas** | `Git` `GitHub` `VS Code` `Chart.js` |
+
+---
+
+### 📂 Projetos em Destaque
+
+<table border="1">
+  <tr>
+    <td width="50%" align="center">
+      <b>🔐 Gerenciador D2FA</b><br />
+      <i>Segurança máxima com Google Authenticator.</i><br />
+      <code>PHP</code> <code>SQL</code> <code>Security</code><br />
+      <a href="https://github.com/HeitorSouzaSoares2025/Armazenador-e-Gerenciador-de-Senhas-2FA">Repositório</a> | <a href="https://heitor.wuaze.com/">Live Demo</a>
+    </td>
+    <td width="50%" align="center">
+      <b>🌡️ Estação Meteorológica</b><br />
+      <i>Monitoramento IoT em tempo real.</i><br />
+      <code>Arduino</code> <code>PHP</code> <code>Chart.js</code><br />
+      <a href="https://github.com/HeitorSouzaSoares2025/Esta-o-Meteorol-gica-">Repositório</a> | <a href="https://estacaometeorologicass.wuaze.com">Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <b>🗃️ Central de Projetos</b><br />
+      <i>Dashboard com monitoramento de latência.</i><br />
+      <code>JS</code> <code>Tailwind</code> <code>API</code><br />
+      <a href="https://github.com/HeitorSouzaSoares2025/CentralSS">Repositório</a> | <a href="https://central.wuaze.com/">Live Demo</a>
+    </td>
+    <td width="50%" align="center">
+      <b>🌊 O Grito do Oceano</b><br />
+      <i>Conscientização ambiental via Web.</i><br />
+      <code>UI/UX</code> <code>HTML</code> <code>CSS</code><br />
+      <a href="https://github.com/HeitorSouzaSoares2025/Landing-Page---O-Grito-do-Oceano">Repositório</a> | <a href="https://heitorsouzasoares2025.github.io/Landing-Page---O-Grito-do-Oceano/">Live Demo</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Estatísticas e Atividade
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HeitorSouzaSoares2025&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorSouzaSoares2025&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
+</p>
+
+---
+
+### 📫 Vamos trocar uma ideia?
+<p align="left">
+  <a href="mailto:heitorinformaticasala09@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/HeitorSouzaSoares2025">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+<p align="center">
+  <i>"A tecnologia move o mundo, mas a curiosidade move a tecnologia."</i>
+</p>
