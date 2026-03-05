@@ -1,94 +1,67 @@
 # 👋 Olá! Eu sou Heitor Souza Soares
 
-Sou estudante de **Informática** no **3º ano do Ensino Médio**, apaixonado por **desenvolvimento web, automação e tecnologia**.  
-Neste repositório você encontrará todos os meus projetos públicos, sejam eles puramente Front-End ou Full Stack
+Sou estudante de **Informática** no **3º ano do Ensino Médio**, apaixonado por **desenvolvimento Full Stack, automação e segurança**. 
+Neste perfil, você encontrará projetos que variam de interfaces modernas no Front-End a sistemas robustos com integração de hardware e nuvem.
 
 ---
 
 ## 💻 Tecnologias e Habilidades
 
+### 🌐 Front-End & Design
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" height="40"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" height="40"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="40"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" height="40"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQL" height="40"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino" height="40"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" height="40"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" height="40"/>
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white" alt="Chart.js" height="40"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" height="35"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" height="35"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="35"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" height="35"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" height="35"/>
 </p>
 
+### ⚙️ Back-End, Database & Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="35"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" height="35"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white" alt="SQL" height="35"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" height="35"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino" height="35"/>
+</p>
 
-
----
-
-## 🚀 Meus Projetos
-
-### 🗃 [Central de Projetos](https://github.com/HeitorSouzaSoares2025/CentralSS)
-Venha conhecer todos os meus projetos de forma detalhada e simples, podendo verificar se o site está no ar ou não apartir de uma verificação de latência configurada com JavaScript
-
-**Tecnologias:** HTML, CSS, JS e TAILWIND CSS  
-🔗 [Acessar Projeto Online](https://central.wuaze.com/)
-
----
-
-### 📋 [To-Do List](https://github.com/HeitorSouzaSoares2025/To-doList)
-Administre suas tarefas e obrgações de forma eficiente e prática com essa lista e ganhe badges com seu esforço
-
-**Tecnologias:** HTML, CSS, JS e CHART.JS  
-🔗 [Acessar Projeto Online](https://heitorsouzasoares2025.github.io/To-dolist/)
+### 🛠️ Ferramentas & Controle de Versão
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="35"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" height="35"/>
+</p>
 
 ---
 
-### 🌡️ [Estação Meteorológica](https://github.com/HeitorSouzaSoares2025/Esta-o-Meteorol-gica-)
-Monitoramento de **temperatura, umidade e luminosidade** com painel web utilizando biblioteca JavaScript
+## 🚀 Projetos em Destaque
 
-**Tecnologias:** HTML, CSS, JS, PHP, C++ e SQL  
-🔗 [Acessar Projeto Online](https://estacaometeorologicass.wuaze.com)
+### 🔐 [Gerenciador de Senhas D2FA](https://github.com/HeitorSouzaSoares2025/Armazenador-e-Gerenciador-de-Senhas-2FA)
+Sistema focado em segurança utilizando **Google Authenticator** para duplo fator de autenticação e armazenamento de senhas com Hash.
+**Stack:** PHP, SQL, JS e CSS. 
+🔗 [Ver Online](https://heitor.wuaze.com/)
 
----
+### 🌡️ [Estação Meteorológica IoT](https://github.com/HeitorSouzaSoares2025/Esta-o-Meteorol-gica-)
+Monitoramento em tempo real de temperatura, umidade e luminosidade integrando hardware e web.
+**Stack:** C++ (Arduino), PHP, SQL e Chart.js.
+🔗 [Ver Online](https://estacaometeorologicass.wuaze.com)
 
-### 🔐 [Gerenciador e Armazenador de Senhas D2FA](https://github.com/HeitorSouzaSoares2025/Armazenador-e-Gerenciador-de-Senhas-2FA)
-Sistema seguro utilizando Google Authenticator como duplo fator de autenticação, além de senhas segura em hash ficando visível apenas no painel de controle do usuário para guardar informações confidenciais
-
-**Tecnologias:** HTML, CSS, JS, PHP e SQL  
-🔗 [Acessar Projeto Online](https://heitor.wuaze.com/)
-
----
-
-### 📰 [Portifólio](https://github.com/HeitorSouzaSoares2025/Portifolio)
-Página pessoal para apresentação de projetos, habilidades e formas de contato
-
-**Tecnologias:** HTML, CSS, JS e Bootstrap  
-🔗 [Acessar Projeto Online](https://heitorsouzasoares2025.github.io/Portifolio/)
+### 🗃 [Central de Projetos (Dashboard)](https://github.com/HeitorSouzaSoares2025/CentralSS)
+Um hub centralizado para gerenciar e visualizar o status de latência de todos os meus deploys.
+**Stack:** HTML, JS e Tailwind CSS.
+🔗 [Ver Online](https://central.wuaze.com/)
 
 ---
 
-### 🔰 [Site Pessoal](https://github.com/HeitorSouzaSoares2025/HeitorSS)
-Venha conhecer um pouco sobre das minhas atividades do curso realizadas em laboratório
+## 📈 Estatísticas do GitHub
 
-**Tecnologias:** HTML, CSS e JS  
-🔗 [Acessar Projeto Online](https://heitorsouzasoares2025.github.io/HeitorSS/)
-
----
-
-### 🌊 [O Grito do Oceano](https://github.com/HeitorSouzaSoares2025/Landing-Page---O-Grito-do-Oceano)
-Entenda como o plástico nos mares afeta tanto a vida marinha e a vida humana, ou seja, as consequências do plásitico nos mares
-
-**Tecnologias:** HTML, CSS e JS  
-🔗 [Acessar Projeto Online](https://heitorsouzasoares2025.github.io/Landing-Page---O-Grito-do-Oceano/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HeitorSouzaSoares2025&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorSouzaSoares2025&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 ---
 
-### 💧 [Subnautica](https://github.com/HeitorSouzaSoares2025/Subnautica)
-Conheça um pouco da lore do jogo de Subnaútica entendendo melhor sobre seus principais mobs, itens e até mesmo do protagonista
-
-**Tecnologias:** HTML, CSS e JS  
-🔗 [Acessar Projeto Online](https://heitorsouzasoares2025.github.io/Subnautica/)
-
----
-
-## 📫 Contato
+## 📫 Vamos nos conectar?
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heitorinformaticasala09@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
