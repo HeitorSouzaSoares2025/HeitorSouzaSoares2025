@@ -18,8 +18,8 @@ Sou estudante de Informática (3º ano) focado no desenvolvimento de soluções 
 | :--- | :--- |
 | **🎨 FRONT-END** | `HTML5` • `CSS3` • `JavaScript` • `Tailwind CSS` • `Bootstrap` • `Chart.js` |
 | **⚙️ BACK-END** | `Python` • `PHP` • `C++ (Arduino)` |
-| **🗄️ DATABASE & CLOUD** | `SQL` • `Firebase` • `SQLite` |
-| **🔧 DEVTOOLS** | `Git` • `GitHub` • `VS Code` • `Linux` |
+| **🗄️ DATABASE & CLOUD** | `SQL` • `Firebase` |
+| **🔧 DEVTOOLS** | `Git` • `GitHub` • `VS Code` |
 
 ---
 
