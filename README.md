@@ -10,60 +10,59 @@ Sou um desenvolvedor em formação focado em criar soluções que unem o mundo f
 
 * 🔭 Atualmente trabalhando em: **Sistemas com Autenticação 2FA**
 * 🌱 Aprendendo: **React.js e Integrações Avançadas com Firebase**
-* ⚡ Hobbie: **Explorar novas bibliotecas de visualização de dados**
+* 🛠️ Experiência em: **Python, Firebase, Git & GitHub**
 
 ---
 
 ### 🛠️ Toolbox Tecnológica
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Front-End** | `HTML5` `CSS3` `JavaScript` `Tailwind CSS` `Bootstrap` |
-| **Back-End** | `PHP` `Python` `C++ (Arduino)` |
-| **Database & Cloud** | `SQL` `Firebase` `SQLite` |
-| **Ferramentas** | `Git` `GitHub` `VS Code` `Chart.js` |
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,php,py,mysql,firebase,arduino,cpp,git,github" />
+</p>
 
 ---
 
 ### 📂 Projetos em Destaque
 
-<table border="1">
-  <tr>
-    <td width="50%" align="center">
-      <b>🔐 Gerenciador D2FA</b><br />
-      <i>Segurança máxima com Google Authenticator.</i><br />
-      <code>PHP</code> <code>SQL</code> <code>Security</code><br />
-      <a href="https://github.com/HeitorSouzaSoares2025/Armazenador-e-Gerenciador-de-Senhas-2FA">Repositório</a> | <a href="https://heitor.wuaze.com/">Live Demo</a>
-    </td>
-    <td width="50%" align="center">
-      <b>🌡️ Estação Meteorológica</b><br />
-      <i>Monitoramento IoT em tempo real.</i><br />
-      <code>Arduino</code> <code>PHP</code> <code>Chart.js</code><br />
-      <a href="https://github.com/HeitorSouzaSoares2025/Esta-o-Meteorol-gica-">Repositório</a> | <a href="https://estacaometeorologicass.wuaze.com">Live Demo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <b>🗃️ Central de Projetos</b><br />
-      <i>Dashboard com monitoramento de latência.</i><br />
-      <code>JS</code> <code>Tailwind</code> <code>API</code><br />
-      <a href="https://github.com/HeitorSouzaSoares2025/CentralSS">Repositório</a> | <a href="https://central.wuaze.com/">Live Demo</a>
-    </td>
-    <td width="50%" align="center">
-      <b>🌊 O Grito do Oceano</b><br />
-      <i>Conscientização ambiental via Web.</i><br />
-      <code>UI/UX</code> <code>HTML</code> <code>CSS</code><br />
-      <a href="https://github.com/HeitorSouzaSoares2025/Landing-Page---O-Grito-do-Oceano">Repositório</a> | <a href="https://heitorsouzasoares2025.github.io/Landing-Page---O-Grito-do-Oceano/">Live Demo</a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <a href="https://github.com/HeitorSouzaSoares2025/Armazenador-e-Gerenciador-de-Senhas-2FA">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=HeitorSouzaSoares2025&repo=Armazenador-e-Gerenciador-de-Senhas-2FA&theme=tokyonight&show_owner=true" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/HeitorSouzaSoares2025/Esta-o-Meteorol-gica-">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=HeitorSouzaSoares2025&repo=Esta-o-Meteorol-gica-&theme=tokyonight&show_owner=true" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/HeitorSouzaSoares2025/CentralSS">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=HeitorSouzaSoares2025&repo=CentralSS&theme=tokyonight&show_owner=true" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/HeitorSouzaSoares2025/Landing-Page---O-Grito-do-Oceano">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=HeitorSouzaSoares2025&repo=Landing-Page---O-Grito-do-Oceano&theme=tokyonight&show_owner=true" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ### 📊 Estatísticas e Atividade
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HeitorSouzaSoares2025&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorSouzaSoares2025&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HeitorSouzaSoares2025&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorSouzaSoares2025&layout=compact&theme=tokyonight&border_radius=10" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HeitorSouzaSoares2025&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -76,9 +75,4 @@ Sou um desenvolvedor em formação focado em criar soluções que unem o mundo f
   <a href="https://github.com/HeitorSouzaSoares2025">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
----
-<p align="center">
-  <i>"A tecnologia move o mundo, mas a curiosidade move a tecnologia."</i>
 </p>
