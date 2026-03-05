@@ -1,21 +1,25 @@
-# 👨‍💻 Heitor Souza Soares
-> **Estudante de Informática (3º Ano) | Desenvolvedor Full Stack | Entusiasta de IoT**
+# ⚡ HEITOR SOUZA SOARES
+> `FULL STACK DEVELOPER` | `IOT ENTUSIAST` | `SEC OPS`
 
 ---
 
-### 🚀 Sobre Mim
-Desenvolvedor focado na intersecção entre software e hardware. Atualmente aprimorando conhecimentos em **segurança de dados**, **automação com Python** e **integrações Cloud com Firebase**.
+### 👤 SOBRE MIM
+Sou estudante de Informática (3º ano) focado no desenvolvimento de soluções que conectam **Hardware (Arduino)**, **Back-end (PHP/Python)** e **Interfaces Modernas**. Atualmente, estou focado em **segurança de dados** e arquiteturas em nuvem com **Firebase**.
+
+* 🚀 **Foco atual:** Aplicações Full Stack e Automação IoT.
+* 🛡️ **Interesse:** Criptografia, Hash de segurança e 2FA.
+* ☁️ **Cloud:** Integrações em tempo real com Firebase.
 
 ---
 
-### 🛠️ Toolbox Tecnológica
+### 🛠️ TOOLBOX TECNOLÓGICA
 
-| Categoria | Stack & Ferramentas |
+| CATEGORIA | TECNOLOGIAS EM DESTAQUE |
 | :--- | :--- |
-| **🎨 Front-End** | `HTML5` `CSS3` `JavaScript` `Tailwind CSS` `Bootstrap` `Chart.js` |
-| **⚙️ Back-End** | `PHP` `Python` `C++ (Arduino)` |
-| **🗄️ Database & Cloud** | `SQL` `Firebase` `SQLite` |
-| **🔧 DevTools** | `Git` `GitHub` `VS Code` `Linux` |
+| **🎨 FRONT-END** | `HTML5` • `CSS3` • `JavaScript` • `Tailwind CSS` • `Bootstrap` • `Chart.js` |
+| **⚙️ BACK-END** | `Python` • `PHP` • `C++ (Arduino)` |
+| **🗄️ DATABASE & CLOUD** | `SQL` • `Firebase` • `SQLite` |
+| **🔧 DEVTOOLS** | `Git` • `GitHub` • `VS Code` • `Linux` |
 
 ---
 
