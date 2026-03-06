@@ -127,6 +127,3 @@
 > — *Heitor Souza Soares*
 
 ---
-<p align="center">
-  Desenvolvido e aperfeiçoado por Heitor
-</p>
