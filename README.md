@@ -1,14 +1,28 @@
 # ⚡ HEITOR SOUZA SOARES
-> `TÉCNICO EM INFORMÁTICA` | `DEV FULL-STACK`
+> **Técnico em Informática** | **Full-Stack Developer** | **AI Enthusiast**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Disponível%20para%20Projetos-success?style=for-the-badge&logo=github" alt="Status">
+</div>
 
 ---
 
 ### 👤 SOBRE MIM
-Sou estudante de Informática (3º ano) focado em aprender e dominar linguagens de programação, banco de dados e frameworks. Atualmente estou focado em desenvolver a minha I.A chamada Orion.
 
-* 🚀 **Foco atual:** Automações e desenvolvimento com Python.
-* 🛡️ **Interesse:** Banco de dados e frameworks.
-* ☁️ **Cloud:** Integrações em tempo real com Firebase.
+> [!IMPORTANT]
+> Sou estudante do 3º ano de Informática, apaixonado por transformar lógica em soluções reais. Meu foco é o domínio do ecossistema Full-Stack, unindo a robustez do Back-end com interfaces fluidas e inteligentes.
+
+| 🚀 FOCO ATUAL | 🛡️ INTERESSES | ☁️ CLOUD |
+| :--- | :--- | :--- |
+| **Projeto Orion (I.A)** | Segurança de Dados | Firebase Realtime |
+| Automação com Python | Estrutura de Frameworks | Deploy Contínuo |
+
+---
+
+### 💻 MENTALIDADE DEV
+* **Aprendizado Contínuo:** Evoluindo a cada linha de código.
+* **Hardware + Software:** Conectando o mundo físico ao digital via IoT.
+* **Código Limpo:** Foco em legibilidade e escalabilidade.
 
 ---
 
