@@ -101,8 +101,6 @@
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Heitotosouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Heitotosouza&layout=compact&theme=radical&hide_progress=false&count_private=true)
-
 ![Sequência de Commits](https://github-readme-streak-stats.herokuapp.com/?user=Heitotosouza&theme=radical)
 
 
@@ -132,10 +130,10 @@
 <br />
 
 > [!TIP]
-> **"A tecnologia move o mundo, mas a curiosidade move a tecnologia."**
+> **"Uma vida, Uma chance"**
 > — *Heitor Souza Soares*
 
 ---
 <p align="center">
-  Desenvolvido com ☕ e 💻 por Heitor
+  Desenvolvido e aperfeiçoado por Heitor
 </p>
