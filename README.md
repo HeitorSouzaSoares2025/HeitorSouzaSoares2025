@@ -19,12 +19,6 @@
 
 ---
 
-### 💻 MENTALIDADE DEV
-* **Aprendizado Contínuo:** Evoluindo a cada linha de código.
-* **Hardware + Software:** Conectando o mundo físico ao digital via IoT.
-* **Código Limpo:** Foco em legibilidade e escalabilidade.
-
----
 
 ### 🛠️ TOOLBOX TECNOLÓGICA
 
