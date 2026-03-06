@@ -1,35 +1,65 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Heitor Souza Soares
-============================================================================================================================================
+# ⚡ HEITOR SOUZA SOARES
+> `FULL STACK DEVELOPER` | `IOT ENTUSIAST` | `SEC OPS`
 
-Técnico em Informática e Dev Full-Stack
----------------------------------------
+---
 
-Eu me chamo Heitor Souza Soares, atualmente estou no terceiro ano do Ensino Médio com curso ténico de informática. Ao longo do último ano, eu desenvolvi vários projetos Front-end e Full-stack, dominei algumas linguagens de programação, alguns banco de dados, alguns frameworks e algumas ferramentas importantes para o mundo da programação. Abaixo terá mais informações sobre mim e sobre meus projetos
+### 👤 SOBRE MIM
+Sou estudante de Informática (3º ano) focado no desenvolvimento de soluções que conectam **Hardware (Arduino)**, **Back-end (PHP/Python)** e **Interfaces Modernas**. Atualmente, estou focado em **segurança de dados** e arquiteturas em nuvem com **Firebase**.
 
-*   🌍  I'm based in Brasil
-*   ✉️  You can contact me at [heitorinformaticasala09@gmail.com](mailto:heitorinformaticasala09@gmail.com)
-*   🧠  I'm currently learning Python, React.js, Next.js e Firebase
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a>
-                  </p>
-                  
+* 🚀 **Foco atual:** Aplicações Full Stack e Automação IoT.
+* 🛡️ **Interesse:** Criptografia, Hash de segurança e 2FA.
+* ☁️ **Cloud:** Integrações em tempo real com Firebase.
 
-                ### Socials
-                
-                <p align="left"> <a href="https://www.github.com/https://github.com/Heitotosouza" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
-<a href="https://www.github.com/https://github.com/Heitotosouza" target="_blank" rel="noreferrer"><img
-                src="https://img.shields.io/github/followers/https://github.com/Heitotosouza?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+---
 
-### Badges
+### 🛠️ TOOLBOX TECNOLÓGICA
 
-<b>My GitHub Stats</b>
+| CATEGORIA | TECNOLOGIAS EM DESTAQUE |
+| :--- | :--- |
+| **🎨 FRONT-END** | `HTML5` • `CSS3` • `JavaScript` • `Tailwind CSS` • `Bootstrap` • `Chart.js` |
+| **⚙️ BACK-END** | `Python` • `PHP` • `C++ (Arduino)` |
+| **🗄️ DATABASE & CLOUD** | `SQL` • `Firebase` |
+| **🔧 DEVTOOLS** | `Git` • `GitHub` • `VS Code` |
 
-<a href="http://www.github.com/https://github.com/Heitotosouza"><img src="https://github-readme-stats.vercel.app/api?username=https://github.com/Heitotosouza&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=0f172a&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="https://github.com/Heitotosouza's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/https://github.com/Heitotosouza"><img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/Heitotosouza&stroke=0f172a&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=0f172a&currStreakLabel=84cc16&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
+### 📂 Projetos em Destaque
 
-<a href="https://github.com/https://github.com/Heitotosouza" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Heitotosouza&langs_count=10&title_color=84cc16&text_color=0f172a&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+#### 🔐 Gerenciador de Senhas D2FA
+*Sistema de custódia de credenciais com Duplo Fator de Autenticação.*
+- **Destaque:** Implementação de Hash de segurança e Google Authenticator.
+- **Stack:** `PHP` `SQL` `JavaScript`
+- Status: [ Em manutenção ]
+- 🔗 [Repositório](https://github.com/HeitorSouzaSoares2025/Armazenador-e-Gerenciador-de-Senhas-2FA) | [Visitar](https://heitor.wuaze.com/)
 
-<b>Top Repositories</b>
+#### 🌡️ Estação Meteorológica IoT
+*Dashboard em tempo real para monitoramento climático via sensores.*
+- **Destaque:** Integração de hardware (Arduino) com banco de dados remoto.
+- **Stack:** `C++` `PHP` `SQL` `Chart.js`
+- Status: [ Em manutenção ]
+- 🔗 [Repositório](https://github.com/HeitorSouzaSoares2025/Esta-o-Meteorol-gica-) | [Visitar](https://estacaometeorologicass.wuaze.com)
 
-<div width="100%" align="center"><a href="https://github.com/https://github.com/Heitotosouza/https://central.wuaze.com/" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=https://github.com/Heitotosouza&repo=https://central.wuaze.com/&title_color=84cc16&text_color=0f172a&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+#### 🗃️ Central de Projetos (Dashboard)
+*Hub centralizado para monitoramento de latência e status de deploys.*
+- **Destaque:** Verificação dinâmica de status via JavaScript.
+- **Stack:** `JavaScript` `Tailwind CSS` `HTML`
+- Status: [ Em manutenção ]
+- 🔗 [Repositório](https://github.com/HeitorSouzaSoares2025/CentralSS) | [Visitar](https://central.wuaze.com/)
+
+#### 🌊 O Grito do Oceano
+*Landing Page interativa sobre conscientização ambiental.*
+- **Destaque:** Foco em UI/UX e performance responsiva.
+- **Stack:** `HTML` `CSS` `JavaScript`
+- Status: [ Em manutenção ]
+- 🔗 [Repositório](https://github.com/HeitorSouzaSoares2025/Landing-Page---O-Grito-do-Oceano) | [Visitar](https://heitorsouzasoares2025.github.io/Landing-Page---O-Grito-do-Oceano/)
+
+---
+
+### 📬 Contato & Social
+- **E-mail:** `heitorinformaticasala09@gmail.com`
+- **GitHub:** [HeitorSouzaSoares2025](https://github.com/HeitorSouzaSoares2025)
+
+---
+<p align="right">
+  <i>"A tecnologia move o mundo, mas a curiosidade move a tecnologia."</i>
+</p>
