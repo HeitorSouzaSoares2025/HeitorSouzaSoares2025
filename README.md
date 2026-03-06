@@ -10,7 +10,7 @@
 ### 👤 SOBRE MIM
 
 > [!IMPORTANT]
-> Sou estudante do 3º ano de Informática, apaixonado por transformar lógica em soluções reais. Meu foco é o domínio do ecossistema Full-Stack, unindo a robustez do Back-end com interfaces fluidas e inteligentes.
+> Sou estudante do 3º ano de Informática, com conhecimento técnico a 3 anos e prático a 1 ano. Atualmente focado no Projeto O.R.I.O.N e no Projeto AEGIS
 
 | 🚀 FOCO ATUAL | 🛡️ INTERESSES | ☁️ CLOUD |
 | :--- | :--- | :--- |
