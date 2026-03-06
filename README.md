@@ -4,10 +4,10 @@
 ---
 
 ### 👤 SOBRE MIM
-Sou estudante de Informática (3º ano) focado no desenvolvimento de soluções que conectam **Hardware (Arduino)**, **Back-end (PHP/Python)** e **Interfaces Modernas**. Atualmente, estou focado em **segurança de dados** e arquiteturas em nuvem com **Firebase**.
+Sou estudante de Informática (3º ano) focado em aprender e dominar linguagens de programação, banco de dados e frameworks. Atualmente estou focado em desenvolver a minha I.A chamada Orion
 
-* 🚀 **Foco atual:** Aplicações Full Stack e Automação IoT.
-* 🛡️ **Interesse:** Criptografia, Hash de segurança e 2FA.
+* 🚀 **Foco atual:** Automações e desenvolvimento com Python.
+* 🛡️ **Interesse:** Banco de dados e frameworks.
 * ☁️ **Cloud:** Integrações em tempo real com Firebase.
 
 ---
@@ -26,28 +26,28 @@ Sou estudante de Informática (3º ano) focado no desenvolvimento de soluções 
 ### 📂 Projetos em Destaque
 
 #### 🔐 Gerenciador de Senhas D2FA
-*Sistema de custódia de credenciais com Duplo Fator de Autenticação.*
+*Sistema de armazenamento e gerenciamento de senhas e e-mails com proteção D2FA (duplo fator de autenticação com Qr Code e senha prórpia).*
 - **Destaque:** Implementação de Hash de segurança e Google Authenticator.
 - **Stack:** `PHP` `SQL` `JavaScript`
 - Status: [ Em manutenção ]
 - 🔗 [Repositório](https://github.com/HeitorSouzaSoares2025/Armazenador-e-Gerenciador-de-Senhas-2FA) | [Visitar](https://heitor.wuaze.com/)
 
 #### 🌡️ Estação Meteorológica IoT
-*Dashboard em tempo real para monitoramento climático via sensores.*
-- **Destaque:** Integração de hardware (Arduino) com banco de dados remoto.
+*Dashboard em tempo real para monitoramento de temperatura, luminosidade e umidade local.*
+- **Destaque:** Integração de hardware (Arduino) com banco de dados remoto em tempo realHeitor.
 - **Stack:** `C++` `PHP` `SQL` `Chart.js`
 - Status: [ Em manutenção ]
 - 🔗 [Repositório](https://github.com/HeitorSouzaSoares2025/Esta-o-Meteorol-gica-) | [Visitar](https://estacaometeorologicass.wuaze.com)
 
 #### 🗃️ Central de Projetos (Dashboard)
-*Hub centralizado para monitoramento de latência e status de deploys.*
+*Site focado para monitoramento de latência e status de deploys de projetos.*
 - **Destaque:** Verificação dinâmica de status via JavaScript.
 - **Stack:** `JavaScript` `Tailwind CSS` `HTML`
 - Status: [ Em manutenção ]
 - 🔗 [Repositório](https://github.com/HeitorSouzaSoares2025/CentralSS) | [Visitar](https://central.wuaze.com/)
 
 #### 🌊 O Grito do Oceano
-*Landing Page interativa sobre conscientização ambiental.*
+*Landing Page interativa sobre conscientização ambiental em relação ao aumento exponencial de plástico nos oceanos.*
 - **Destaque:** Foco em UI/UX e performance responsiva.
 - **Stack:** `HTML` `CSS` `JavaScript`
 - Status: [ Em manutenção ]
