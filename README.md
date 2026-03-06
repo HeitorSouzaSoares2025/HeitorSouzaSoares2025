@@ -124,6 +124,6 @@
 
 > [!TIP]
 > **"Uma vida, Uma chance"**
-> — *Heitor Souza Soares*
+> — *HeitorSS*
 
 ---
