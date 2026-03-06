@@ -25,33 +25,41 @@ Sou estudante de Informática (3º ano) focado em aprender e dominar linguagens 
 
 ### 📂 PROJETOS EM DESTAQUE
 
+---
+
 #### 01. 🔐 Gerenciador de Senhas D2FA
-*Sistema de armazenamento e gerenciamento de senhas e e-mails com proteção D2FA.*
+> **Custódia Inteligente:** Sistema de armazenamento e gerenciamento de senhas e e-mails com proteção D2FA.
 - **Destaque:** Implementação de Hash de segurança e Google Authenticator.
-- **Stack:** `PHP` `SQL` `JavaScript`
-- **Status:** `Em manutenção`
-- 🔗 [Repositório](https://github.com/HeitorSouzaSoares2025/Armazenador-e-Gerenciador-de-Senhas-2FA) | [Visitar](https://heitor.wuaze.com/)
+- **Tech Stack:** `PHP` `SQL` `JavaScript`
+- **Status:** ![Manutenção](https://img.shields.io/badge/Status-Em%20Manutenção-orange?style=flat-square)
+- 🔗 [Código Fonte](https://github.com/HeitorSouzaSoares2025/Armazenador-e-Gerenciador-de-Senhas-2FA) • [Live Demo](https://heitor.wuaze.com/)
+
+---
 
 #### 02. 🌡️ Estação Meteorológica IoT
-*Dashboard em tempo real para monitoramento de temperatura, luminosidade e umidade local.*
-- **Destaque:** Integração de hardware (Arduino) com banco de dados remoto em tempo real.
-- **Stack:** `C++` `PHP` `SQL` `Chart.js`
-- **Status:** `Em manutenção`
-- 🔗 [Repositório](https://github.com/HeitorSouzaSoares2025/Esta-o-Meteorol-gica-) | [Visitar](https://estacaometeorologicass.wuaze.com)
+> **Hardware & Software:** Dashboard em tempo real para monitoramento de temperatura, luminosidade e umidade.
+- **Destaque:** Integração de Arduino com banco de dados remoto em tempo real.
+- **Tech Stack:** `C++` `PHP` `SQL` `Chart.js`
+- **Status:** ![Manutenção](https://img.shields.io/badge/Status-Em%20Manutenção-orange?style=flat-square)
+- 🔗 [Código Fonte](https://github.com/HeitorSouzaSoares2025/Esta-o-Meteorol-gica-) • [Live Demo](https://estacaometeorologicass.wuaze.com)
+
+---
 
 #### 03. 🗃️ Central de Projetos (Dashboard)
-*Site focado para monitoramento de latência e status de deploys de projetos.*
+> **Monitoramento:** Site focado para análise de latência e status de deploys.
 - **Destaque:** Verificação dinâmica de status via JavaScript.
-- **Stack:** `JavaScript` `Tailwind CSS` `HTML`
-- **Status:** `Em manutenção`
-- 🔗 [Repositório](https://github.com/HeitorSouzaSoares2025/CentralSS) | [Visitar](https://central.wuaze.com/)
+- **Tech Stack:** `JavaScript` `Tailwind CSS` `HTML`
+- **Status:** ![Manutenção](https://img.shields.io/badge/Status-Em%20Manutenção-orange?style=flat-square)
+- 🔗 [Código Fonte](https://github.com/HeitorSouzaSoares2025/CentralSS) • [Live Demo](https://central.wuaze.com/)
+
+---
 
 #### 04. 🌊 O Grito do Oceano
-*Landing Page interativa sobre conscientização ambiental.*
-- **Destaque:** Foco em UI/UX e performance responsiva.
-- **Stack:** `HTML` `CSS` `JavaScript`
-- **Status:** `Em manutenção`
-- 🔗 [Repositório](https://github.com/HeitorSouzaSoares2025/Landing-Page---O-Grito-do-Oceano) | [Visitar](https://heitorsouzasoares2025.github.io/Landing-Page---O-Grito-do-Oceano/)
+> **UI/UX Impact:** Landing Page interativa sobre conscientização ambiental e poluição marinha.
+- **Destaque:** Foco total em responsividade e narrativa visual.
+- **Tech Stack:** `HTML` `CSS` `JavaScript`
+- **Status:** ![Manutenção](https://img.shields.io/badge/Status-Em%20Manutenção-orange?style=flat-square)
+- 🔗 [Código Fonte](https://github.com/HeitorSouzaSoares2025/Landing-Page---O-Grito-do-Oceano) • [Live Demo](https://heitorsouzasoares2025.github.io/Landing-Page---O-Grito-do-Oceano/)
 
 ---
 
