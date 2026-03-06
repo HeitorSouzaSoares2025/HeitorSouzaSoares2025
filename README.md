@@ -68,11 +68,34 @@ Sou estudante de Informática (3º ano) focado em aprender e dominar linguagens 
 
 ---
 
-### 📬 CONTATO & SOCIAL
-- 📧 **E-mail:** `heitorinformaticasala09@gmail.com`
-- 🐙 **GitHub:** [Heitotosouza](https://github.com/Heitotosouza)
+---
+
+### 🤝 VAMOS CONECTAR?
+
+<div align="left">
+  <table border="0">
+    <tr>
+      <td>
+        <a href="mailto:heitorinformaticasala09@gmail.com">
+          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Heitotosouza">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+> [!TIP]
+> **"A tecnologia move o mundo, mas a curiosidade move a tecnologia."**
+> — *Heitor Souza Soares*
 
 ---
-<p align="right">
-  <i>"A tecnologia move o mundo, mas a curiosidade move a tecnologia."</i>
+<p align="center">
+  Desenvolvido com ☕ e 💻 por Heitor
 </p>
