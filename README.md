@@ -57,17 +57,17 @@ Sou estudante de Informática (3º ano) focado em aprender e dominar linguagens 
 
 ### 📊 ESTATÍSTICAS E ATIVIDADE
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=HeitorSouzaSoares2025&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Heitotosouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorSouzaSoares2025&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Heitotosouza&layout=compact&theme=radical)
 
-![Sequência de Commits](https://github-readme-streak-stats.herokuapp.com/?user=HeitorSouzaSoares2025&theme=radical)
+![Sequência de Commits](https://github-readme-streak-stats.herokuapp.com/?user=Heitotosouza&theme=radical)
 
 ---
 
 ### 📬 CONTATO & SOCIAL
 - 📧 **E-mail:** `heitorinformaticasala09@gmail.com`
-- 🐙 **GitHub:** [HeitorSouzaSoares2025](https://github.com/HeitorSouzaSoares2025)
+- 🐙 **GitHub:** [Heitotosouza](https://github.com/Heitotosouza)
 
 ---
 <p align="right">
