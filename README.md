@@ -1,5 +1,5 @@
 # ⚡ HEITOR SOUZA SOARES
-> **Técnico em Informática** | **Full-Stack Developer** | **AI Enthusiast**
+> **Técnico em Informática** | **Dev Full-Stack** | 
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Disponível%20para%20Projetos-success?style=for-the-badge&logo=github" alt="Status">
