@@ -10,12 +10,12 @@
 ### 👤 SOBRE MIM
 
 > [!IMPORTANT]
-> Sou estudante do 3º ano de Informática, com conhecimento técnico a 3 anos e prático a 1 ano. Atualmente focado no Projeto O.R.I.O.N e no Projeto AEGIS
+> Sou estudante do 3º ano de Informática, com conhecimento técnico a 3 anos e programo a 1 ano. Atualmente focado no Projeto O.R.I.O.N, Projeto Aegis e Projeto Caixa
 
 | 🚀 FOCO ATUAL | 🛡️ INTERESSES | ☁️ CLOUD |
 | :--- | :--- | :--- |
 | **Projeto Orion (I.A)** | Segurança de Dados | Firebase Realtime |
-| Automação com Python | Estrutura de Frameworks | Deploy Contínuo |
+| Automação com Python | Estrutura de Frameworks | Empacotamento com Docker |
 
 ---
 
