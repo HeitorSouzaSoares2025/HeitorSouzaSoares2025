@@ -1,122 +1,108 @@
 # <p align="center">⚡ <u>HEITOR SOUZA SOARES</u> ⚡</p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer-00D1FF?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT%20Engineer-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mobile%20Dev-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/DESENVOLVEDOR_FULL--STACK-00D1FF?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/ENGENHEIRO_DE_IOT-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/DEV_MOBILE-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Heitotosouza&color=00d1ff&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
-  <img src="https://img.shields.io/github/followers/Heitotosouza?label=FOLLOWERS&style=flat-square&color=00d1ff" alt="Followers" />
-  <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_PROJECTS-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/STATUS-DISPONÍVEL_PARA_PROJETOS-success?style=for-the-badge" />
 </div>
 
 ---
 
-### 🚀 [ SYSTEM_OVERVIEW ]
+### 🚀 [ VISÃO_GERAL ]
 
-> `Full-Stack Developer` focado em alta performance e soluções escaláveis. Transformando café em sistemas complexos e hardware em dados inteligentes. Atualmente operando em: **Projeto O.R.I.O.N**, **Aegis** e **FinanceFlow**.
+> Desenvolvedor **Full-Stack** focado em sistemas de alta complexidade. Atualmente cursando o 3º ano de Informática, unindo hardware e software para criar soluções reais. Liderando o desenvolvimento dos sistemas **O.R.I.O.N**, **Aegis** e **FinanceFlow**.
 
-| 🔴 **CORE FOCUS** | 🟢 **ACTIVE RESEARCH** | 🔵 **CLOUD & DEPLOY** |
+| 🔴 **FOCO PRINCIPAL** | 🟢 **EM ESTUDO** | 🔵 **INFRAESTRUTURA** |
 | :--- | :--- | :--- |
-| **Artificial Intelligence** | Data Encryption | Docker Microservices |
-| **Spring Boot Ecosystem** | OAuth2 Security | Supabase Backend |
-| **Reactive Interfaces** | Low Level IoT (C++) | Vercel Edge Computing |
+| **Inteligência Artificial** | Criptografia de Dados | Microserviços Docker |
+| **Ecossistema Spring** | Segurança OAuth2 | Banco de Dados Cloud |
+| **Interfaces Reativas** | IoT de Baixo Nível | Deploy Automatizado |
 
 ---
 
-### 🛠️ [ TECH_STACK_MATRIX ]
+### 🛠️ [ ARSENAL_TECNOLÓGICO ]
 
-<div align="center">
+#### 🎨 FRONT-END & MOBILE
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-#### 🎨 FRONT-END & UI/UX
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+#### ⚙️ BACK-END & ARQUITETURA
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+</p>
 
-#### ⚙️ BACK-END & ARCHITECTURE
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-#### 🗄️ INFRA & DATA
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
+#### 🗄️ DADOS & FERRAMENTAS
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ---
 
-### 📂 [ TOP_SECRET_PROJECTS ]
+### 📂 [ PROJETOS_DE_ELITE ]
 
 #### 💳 01 // FinanceFlow
-> **STATUS:** `DEPLOYED` | **SECURITY:** `OAUTH2`
-- Sistema de análise financeira de alta fidelidade.
-- `Spring Boot` `React` `Postgres` `Docker` `Supabase`
-- 🔗 [ACCESS_SOURCE](https://github.com/HeitorSouzaSoares2025)
+> **STATUS:** `ESTÁVEL` | **SEGURANÇA:** `ALTA (OAuth2)`
+- Sistema de gestão financeira com gráficos em tempo real e login via Google.
+- **Tecnologias:** `Java/Spring Boot` `React` `PostgreSQL` `Docker`
+- 🔗 [VER CÓDIGO FONTE](https://github.com/HeitorSouzaSoares2025)
 
 #### 🔱 02 // Portfólio V3
-> **STATUS:** `STABLE` | **UI:** `FRAMER_MOTION`
-- Hub central com renderização híbrida (SSR/SSG).
-- `Next.js` `TypeScript` `Tailwind`
-- 🔗 [ACCESS_SOURCE](https://github.com/HeitorSouzaSoares2025)
+> **STATUS:** `ATIVO` | **DESIGN:** `PREMIUM`
+- Hub central de projetos com animações de ponta e SEO otimizado.
+- **Tecnologias:** `Next.js` `TypeScript` `Tailwind` `Framer Motion`
+- 🔗 [VER CÓDIGO FONTE](https://github.com/HeitorSouzaSoares2025)
 
 #### 📱 03 // DashPlan Mobile
-> **STATUS:** `COMPLETED` | **DB:** `SQLITE`
-- Gestão de tempo com engine de notificações locais.
-- `Flutter` `Dart` `Material 3`
-- 🔗 [ACCESS_SOURCE](https://github.com/HeitorSouzaSoares2025)
+> **STATUS:** `FINALIZADO` | **BANCO:** `SQLITE`
+- Aplicativo de produtividade com engine de notificações locais e sub-tarefas.
+- **Tecnologias:** `Flutter` `Dart` `Material Design 3`
+- 🔗 [VER CÓDIGO FONTE](https://github.com/HeitorSouzaSoares2025)
 
-#### 🌡️ 04 // IoT Weather Station
-> **STATUS:** `TESTING` | **CHART:** `CHART.JS`
-- Hardware monitor via Arduino com sink de dados em tempo real.
-- `C++` `Arduino` `PHP` `Real-time SQL`
-- 🔗 [ACCESS_SOURCE](https://github.com/HeitorSouzaSoares2025)
-
----
-
-### 📊 [ SYSTEM_METRICS ]
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Heitotosouza&show_icons=true&theme=radical&hide_border=false&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heitotosouza&layout=compact&theme=radical&hide_border=false" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Heitotosouza&theme=radical&hide_border=false" />
-</div>
+#### 🌡️ 04 // Estação Meteorológica IoT
+> **STATUS:** `EM TESTES` | **HARDWARE:** `ARDUINO`
+- Hardware monitor para coleta de dados ambientais com dashboard dedicado.
+- **Tecnologias:** `C++` `Arduino` `PHP` `MySQL` `Chart.js`
+- 🔗 [VER CÓDIGO FONTE](https://github.com/HeitorSouzaSoares2025)
 
 ---
 
-### 🤝 [ INITIALIZE_CONNECTION ]
+### 🤝 [ INICIALIZAR_CONTATO ]
 
-<div align="center">
+<p align="left">
   <a href="mailto:heitorinformaticasala09@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/SEU_USER">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Heitotosouza">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</div>
-
-<p align="center">
-  <br />
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d1ff&height=100&section=footer" width="100%" />
 </p>
 
+---
+
 <p align="center">
-  <i>"Uma vida, Uma chance. Codando o futuro, uma linha por vez."</i> <br />
-  <b>— HeitorSS</b>
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=00d1ff&height=30&section=header" width="100%" />
+  <br />
+  <b>"Uma vida, Uma chance. Codando o futuro, uma linha por vez."</b> <br />
+  — HeitorSS
 </p>
