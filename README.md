@@ -54,10 +54,13 @@
 - 🔗 [Código Fonte](https://github.com/HeitorSouzaSoares2025)
 
 #### 02. 💵 FinanceFlow
-> **Analytics Financeiro:** Dashboard para controle de gastos com visualização de dados em tempo real.
-- **Destaque:** Back-end robusto com Spring Boot e integração de gráficos dinâmicos.
-- **Tech Stack:** `Java` `Spring Boot` `React` `Vite` `Axios`
-- **Status:** ![Desenvolvimento](https://img.shields.io/badge/Status-Em%20Desenvolvimento-blue?style=flat-square)]
+> **Analytics Financeiro:** Dashboard completa para controle de fluxos de caixa com visualização de dados em tempo real e autenticação social.
+
+- **Destaque:** Arquitetura Full Stack desacoplada, implementação de segurança com OAuth2 (Google Login) e persistência de dados em nuvem.
+- **Tech Stack:** - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+- **Infra:** `Vercel` (Frontend) | `Render` (API) | `Supabase` (Database)
+- **Status:** ![Concluído](https://img.shields.io/badge/Status-Estável-green?style=flat-square)
 - 🔗 [Código Fonte](https://github.com/HeitorSouzaSoares2025)
 
 #### 03. 📓 DashPlan
