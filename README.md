@@ -59,16 +59,34 @@
 
 ---
 
-#### 01. 🔐 Gerenciador de Senhas D2FA
-> **Custódia Inteligente:** Sistema de armazenamento e gerenciamento de senhas e e-mails com proteção D2FA.
-- **Destaque:** Implementação de Hash de segurança e Google Authenticator.
-- **Tech Stack:** `PHP` `SQL` `JavaScript`
+#### 01. 🔱 PortifolioHSS
+> **Custódia Inteligente:** Portifolio de apresentação com principais projetos
+- **Destaque:** Implementação de Framer Motion
+- **Tech Stack:** `React` `Next.js` `Typescript`
 - **Status:** ![Manutenção](https://img.shields.io/badge/Status-Em%20Manutenção-orange?style=flat-square)
 - 🔗 [Código Fonte](https://github.com/HeitorSouzaSoares2025/Armazenador-e-Gerenciador-de-Senhas-2FA) • [Live Demo](https://heitor.wuaze.com/)
 
 ---
 
-#### 02. 🌡️ Estação Meteorológica IoT
+#### 02. 💵 FinanceFlow
+> **Custódia Inteligente:** Sistema de gestão financeiro com gráficos intuitivos e rápidos
+- **Destaque:** Implementação de Apis e Sistema Distrinchado
+- **Tech Stack:** `Java` `Tailwind` `Vite` Axios Sprint Boot
+- **Status:** ![Manutenção](https://img.shields.io/badge/Status-Em%20Manutenção-orange?style=flat-square)
+- 🔗 [Código Fonte](https://github.com/HeitorSouzaSoares2025/Armazenador-e-Gerenciador-de-Senhas-2FA) • [Live Demo](https://heitor.wuaze.com/)
+
+---
+
+#### 03. 📓 DashPlan
+> **Custódia Inteligente:** Aplicativo Android de agenda com sub-tarefas e notificações
+- **Destaque:** Implementação de notificações
+- **Tech Stack:** `Dart` `Flutter` `JavaScript`
+- **Status:** ![Manutenção](https://img.shields.io/badge/Status-Em%20Manutenção-orange?style=flat-square)
+- 🔗 [Código Fonte](https://github.com/HeitorSouzaSoares2025/Armazenador-e-Gerenciador-de-Senhas-2FA) • [Live Demo](https://heitor.wuaze.com/)
+
+---
+
+#### 05. 🌡️ Estação Meteorológica IoT
 > **Hardware & Software:** Dashboard em tempo real para monitoramento de temperatura, luminosidade e umidade.
 - **Destaque:** Integração de Arduino com banco de dados remoto em tempo real.
 - **Tech Stack:** `C++` `PHP` `SQL` `Chart.js`
@@ -77,7 +95,7 @@
 
 ---
 
-#### 03. 🗃️ Central de Projetos (Dashboard)
+#### 06. 🗃️ Central de Projetos (Dashboard)
 > **Monitoramento:** Site focado para análise de latência e status de deploys.
 - **Destaque:** Verificação dinâmica de status via JavaScript.
 - **Tech Stack:** `JavaScript` `Tailwind CSS` `HTML`
@@ -86,7 +104,7 @@
 
 ---
 
-#### 04. 🌊 O Grito do Oceano
+#### 07. 🌊 O Grito do Oceano
 > **UI/UX Impact:** Landing Page interativa sobre conscientização ambiental e poluição marinha.
 - **Destaque:** Foco total em responsividade e narrativa visual.
 - **Tech Stack:** `HTML` `CSS` `JavaScript`
