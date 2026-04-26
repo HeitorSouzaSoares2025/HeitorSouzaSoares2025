@@ -57,19 +57,22 @@
 > **Analytics Financeiro:** Dashboard para controle de gastos com visualização de dados em tempo real.
 - **Destaque:** Back-end robusto com Spring Boot e integração de gráficos dinâmicos.
 - **Tech Stack:** `Java` `Spring Boot` `React` `Vite` `Axios`
-- **Status:** ![Desenvolvimento](https://img.shields.io/badge/Status-Em%20Desenvolvimento-blue?style=flat-square)
+- **Status:** ![Desenvolvimento](https://img.shields.io/badge/Status-Em%20Desenvolvimento-blue?style=flat-square)]
+- 🔗 [Código Fonte](https://github.com/HeitorSouzaSoares2025)
 
 #### 03. 📓 DashPlan
 > **Produtividade Mobile:** Aplicativo de gestão de tempo com foco em subtarefas e lembretes.
 - **Destaque:** Sistema de notificações agendadas e interface nativa.
 - **Tech Stack:** `Flutter` `Dart` `SQLite`
 - **Status:** ![Finalizado](https://img.shields.io/badge/Status-Concluído-success?style=flat-square)
+ - 🔗 [Código Fonte](https://github.com/HeitorSouzaSoares2025)
 
 #### 04. 🌡️ Estação Meteorológica IoT
 > **Hardware & Software:** Monitoramento ambiental via sensores integrados a um dashboard web.
 - **Destaque:** Comunicação em tempo real entre Arduino e Banco de Dados.
 - **Tech Stack:** `C++` `PHP` `MySQL` `Chart.js`
 - **Status:** ![Manutenção](https://img.shields.io/badge/Status-Manutenção-orange?style=flat-square)
+ - 🔗 [Código Fonte](https://github.com/HeitorSouzaSoares2025)
 
 ---
 
